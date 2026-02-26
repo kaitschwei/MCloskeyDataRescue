@@ -1,0 +1,10 @@
+---
+title: "data set 1 cleaning"
+output: html_document
+date: "2026-02-26"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
