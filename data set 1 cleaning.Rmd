@@ -8,3 +8,23 @@ date: "2026-02-26"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+```{r}
+install.packages("readxl")
+library(readxl)
+
+install.packages("tidyverse")
+library(tidyverse)
+```
+
+```{r warning=FALSE}
+rodents <- read_excel("Small_Mammals_75-01.xlsx", col_types = c("numeric", "numeric", "numeric", "text", "numeric", "numeric", "text", "text", "text", "text", "text", "text", "numeric", "text", "text", "text", "text"))
+```
+
+```{r}
+arrangerodents <- rodents %>% 
+  arrange(Location, Genus, Species_Captured, Trapping_Month, Trapping_Day, Plot)
+```
+
+```{r}
+
+```
