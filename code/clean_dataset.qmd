@@ -1,0 +1,174 @@
+---
+title: "Dataset Cleaning — Capture Records"
+format: html
+editor: visual
+---
+
+## Setup
+
+Set the paths to your input Excel file and desired output CSV before running.
+
+```{r}
+#| label: setup
+#| message: false
+
+library(tidyverse)
+library(readxl)
+
+df <- read_excel("../data_raw/Small_Mammals_75-01.xlsx")
+```
+
+------------------------------------------------------------------------
+
+## Flag Invalid Mark Values
+
+Valid marks must be exactly one of the two-letter codes (`LF`, `RF`, `RR`, `LR`, `UM`, `ST`) followed by a single digit (e.g. `LF3`, `ST0`).
+
+```{r}
+#| label: flag-mark
+
+valid_mark_pattern <- "^(LF|RF|RR|LR|UM|ST)[0-9]$"
+
+df <- df |>
+  mutate(
+    mark_flag = if_else(
+      !str_detect(Mark, valid_mark_pattern),
+      "invalid Mark format/combo",
+      NA_character_
+    )
+  )
+```
+
+------------------------------------------------------------------------
+
+## Flag Recapture Issues
+
+Two conditions are flagged:
+
+1.  **Invalid value** — anything other than `"Y"` or `"N"`
+2.  **Order mismatch** — within each unique combination of Plot, Location, Genus, Species_Captured, Sex, and Mark, the first occurrence should be `"N"` and all subsequent should be `"Y"`
+
+```{r}
+#| label: flag-recapture
+
+df <- df |>
+  mutate(Trapping_Day = as.integer(Trapping_Day),
+         Trapping_Month = as.integer(Trapping_Month),
+         Plot = as.integer(Plot)) |> 
+  arrange(Location, Plot, Genus, Species_Captured, Sex, Mark, Trapping_Month, Trapping_Day) |> 
+  group_by(Location, Plot, Genus, Species_Captured, Sex, Mark) |>
+  mutate(expected_recapture = if_else(row_number() == 1L, "N", "Y")) |>
+  ungroup() |>
+  mutate(
+    recapture_flag = case_when(
+      !Recapture %in% c("Y", "N") ~ paste0("invalid value (not Y/N): '", Recapture, "'"),
+      Recapture != expected_recapture ~ paste0(
+        "expected ", expected_recapture, ", got ", Recapture
+      ),
+      .default = NA_character_
+    )
+  )
+```
+
+------------------------------------------------------------------------
+
+## Summary of Flagged Rows
+
+Review this table before running the interactive session below.
+
+```{r}
+#| label: flag-summary
+
+flagged <- df |>
+  filter(!is.na(mark_flag) | !is.na(recapture_flag))
+
+n_flagged <- nrow(flagged)
+
+if (n_flagged == 0) {
+  cat("No issues found — dataset looks clean!\n")
+} else {
+  cat(sprintf("%d row(s) flagged for review.\n\n", n_flagged))
+
+  flagged |>
+    mutate(.row = which(!is.na(df$mark_flag) | !is.na(df$recapture_flag))) |>
+    select(
+      .row, Plot, Location, Genus, Species_Captured, Sex,
+      Mark, mark_flag,
+      Recapture, recapture_flag
+    ) |>
+    print(n = Inf)
+}
+```
+
+------------------------------------------------------------------------
+
+## Interactive Review
+
+Run the two chunks below **from an R console or RStudio** (not during rendering). They use `readline()` to walk you through each flagged row and collect corrections.
+
+```{r}
+#| label: review-function
+#| eval: false
+
+review_flags <- function(df) {
+  flagged_idx <- which(!is.na(df$mark_flag) | !is.na(df$recapture_flag))
+
+  if (length(flagged_idx) == 0) {
+    message("No flagged rows — nothing to review.")
+    return(df |> select(-mark_flag, -recapture_flag, -expected_recapture))
+  }
+
+  cat(sprintf("\n%d row(s) flagged for review.\n", length(flagged_idx)))
+
+  for (i in flagged_idx) {
+    row <- df[i, ]
+
+    cat("\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n")
+    cat(sprintf(
+      "Row %-4d | Plot: %-6s | Location: %-6s | Genus: %-14s | Species: %-16s | Sex: %s\n",
+      i, row$Plot, row$Location, row$Genus, row$Species_Captured, row$Sex
+    ))
+
+    # --- Mark ---
+    if (!is.na(row$mark_flag)) {
+      cat(sprintf("  Mark:      %-10s  \u2190 %s\n", paste0("'", row$Mark, "'"), row$mark_flag))
+      new_val <- readline(sprintf("  New Mark value       (Enter to keep '%s'): ", row$Mark))
+      if (nchar(trimws(new_val)) > 0) {
+        df$Mark[i] <- trimws(new_val)
+        cat(sprintf("  \u2713 Mark updated to '%s'\n", trimws(new_val)))
+      }
+    }
+
+    # --- Recapture ---
+    if (!is.na(row$recapture_flag)) {
+      cat(sprintf("  Recapture: %-10s  \u2190 %s\n", paste0("'", row$Recapture, "'"), row$recapture_flag))
+      new_val <- readline(sprintf("  New Recapture value  (Enter to keep '%s'): ", row$Recapture))
+      if (nchar(trimws(new_val)) > 0) {
+        df$Recapture[i] <- trimws(new_val)
+        cat(sprintf("  \u2713 Recapture updated to '%s'\n", trimws(new_val)))
+      }
+    }
+  }
+
+  cat("\n\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\n")
+  cat("Review complete.\n")
+
+  df |> select(-mark_flag, -recapture_flag, -expected_recapture)
+}
+```
+
+```{r}
+#| label: run-review-and-save
+#| eval: false
+
+# Run this in your R console after sourcing the chunk above.
+# It will walk you through each flagged row, then save the cleaned file.
+
+df_clean <- review_flags(df)
+```
+
+```{r}
+# Save clean data
+write_csv(df_clean, "../data_clean/Small_Mammals_75-01_clean.csv")
+cat(sprintf("Saved cleaned dataset to: %s\n", output_path))
+```
