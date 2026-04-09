@@ -165,10 +165,20 @@ review_flags <- function(df) {
 # It will walk you through each flagged row, then save the cleaned file.
 
 df_clean <- review_flags(df)
+
 ```
+
+Ran this and completed all rows, just have some notes
+
+1.  Need to confirm that all "weird marks" (e.g. LF12, RF1RR1) are explicit in the binder
+2.  In two specific rows, mark matched the format so was not flagged, but was incorrect (confirmed with binder)
+    1.  Row 70 (df_clean) - Y recap, mark should be RF2
+    2.  Row 79 (df_clean) - Y recap, mark should be LF1
 
 ```{r}
 # Save clean data
 write_csv(df_clean, "../data_clean/Small_Mammals_75-01_clean.csv")
 cat(sprintf("Saved cleaned dataset to: %s\n", output_path))
 ```
+
+I have not saved yet since it's not completely clean \^\^
