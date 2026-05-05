@@ -14,3 +14,5 @@ Day,Month,Year,Location,Plot,Station,Genus,Species,Identification,TotalSeeds
 20,7,1975,SNM_East,6,2,Dipodomys,merriami,LF3,6
 20,7,1975,SNM_East,6,1,Dipodomys,merriami,LF2,1
 22,7,1975,SNM_East,6,1,Dipodomys,merriami,LF2,3
+22,7,1975,SNM_East,6,5,Dipodomys,merriami,RF4,28
+24,7,1975,SNM_East,5,8,Dipodomys,merriami,LF2,9
