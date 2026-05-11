@@ -593,3 +593,52 @@ Day,Month,Year,Location,Plot,Station,Genus,Species,Identification,SeedLength,Maj
 4,8,1975,SNM_East,6,4,Dipodomys,merriami,RF4,3.14,1.23,0.58,Larrea,creosote,0
 4,8,1975,SNM_East,6,4,Dipodomys,merriami,RF4,4.22,1.34,0.90,Larrea,creosote,1
 4,8,1975,SNM_East,6,4,Dipodomys,merriami,RF4,3.39,1.22,0.94,Larrea,creosote,0
+5,8,1975,SNM_East,6,4,Dipodomys,merriami,RF4,4.87,3.61,1.76,Prosopis,mesquite,1
+5,8,1975,SNM_East,6,4,Dipodomys,merriami,RF4,5.36,4.70,1.99,Opuntia,prickly pear,0
+5,8,1975,SNM_East,6,4,Dipodomys,merriami,RF4,4.92,4.30,2.19,Opuntia,prickly pear,0
+5,8,1975,SNM_East,6,4,Dipodomys,merriami,RF4,4.56,4.09,2.28,Opuntia,prickly pear,0
+5,8,1975,SNM_East,6,4,Dipodomys,merriami,RF4,4.65,4.62,2.07,Opuntia,prickly pear,0
+5,8,1975,SNM_East,6,4,Dipodomys,merriami,RF4,4.71,4.26,2.16,Opuntia,prickly pear,0
+5,8,1975,SNM_East,6,4,Dipodomys,merriami,RF4,4.47,4.15,2.01,Opuntia,prickly pear,0
+4,7,1975,SNM_East,1,3,Perognathus,baileyi,LF1,4.10,3.72,2.53,Cylindropuntia,cholla type?,1
+6,7,1975,SNM_East,2,6,Perognathus,baileyi,LF3,6.96,4.05,3.23,Parkinsonia,Probably PV,1
+6,7,1975,SNM_East,2,6,Perognathus,baileyi,LF3,3.83,1.38,0.75,Larrea,creosote,0
+6,7,1975,SNM_East,2,6,Perognathus,baileyi,LF3,3.32,1.85,0.32,,?,1
+6,7,1975,SNM_East,2,6,Perognathus,baileyi,LF3,3.13,0.78,0.41,,?,1
+18,7,1975,SNM_East,7,1,Perognathus,baileyi,LF2,1.67,1.55,1.13,Lotus,little tetra,0
+18,7,1975,SNM_East,7,1,Perognathus,baileyi,LF2,1.59,1.31,1.04,Lotus,little tetra,0
+18,7,1975,SNM_East,7,1,Perognathus,baileyi,LF2,1.61,1.28,1.18,Lotus,little tetra,0
+18,7,1975,SNM_East,2,6,Perognathus,baileyi,,8.50,1.28,0.52,,grass,1
+18,7,1975,SNM_East,2,6,Perognathus,baileyi,,7.68,1.13,0.69,,grass,1
+18,7,1975,SNM_East,2,6,Perognathus,baileyi,,8.28,1.35,0.90,,grass,1
+18,7,1975,SNM_East,2,6,Perognathus,baileyi,,3.73,2.78,1.67,Cylindropuntia,Opuntia (Cholla??,1
+18,7,1975,SNM_East,2,6,Perognathus,baileyi,,2.42,1.81,0.78,,?,1
+18,7,1975,SNM_East,2,6,Perognathus,baileyi,,6.79,3.83,1.27,,?,1
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,2.83,1.17,0.78,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.57,1.29,0.87,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.38,1.32,0.73,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.88,1.28,0.89,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.17,1.26,0.80,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.73,1.29,0.90,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.52,1.13,1.03,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.57,1.31,0.96,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.55,1.42,0.87,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.15,1.23,0.73,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.57,1.22,0.92,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.45,1.23,0.95,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.75,1.30,0.91,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.84,1.25,0.87,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.19,1.17,0.85,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.69,1.15,0.99,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.82,1.34,0.87,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.93,1.47,0.78,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,4.04,1.35,0.85,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,2.61,1.01,0.78,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.43,1.30,1.00,Larrea,creosote,1
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.71,1.20,0.79,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.92,1.32,1.02,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.39,1.31,0.98,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.67,1.33,0.94,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.28,1.45,0.90,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,2.94,1.58,0.89,Larrea,creosote,1
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,2.86,1.47,0.97,Larrea,creosote,0
