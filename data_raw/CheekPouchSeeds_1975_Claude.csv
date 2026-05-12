@@ -708,3 +708,52 @@ Day,Month,Year,Location,Plot,Station,Genus,Species,Identification,SeedLength,Maj
 20,7,1975,SNM_East,4,7,Perognathus,baileyi,RF1,4.96,4.04,1.67,Cylindropuntia,cholla,1
 20,7,1975,SNM_East,1,2,Perognathus,baileyi,RF2,2.05,1.06,1.02,Plantago,?,0
 20,7,1975,SNM_East,1,2,Perognathus,baileyi,RF2,3.66,2.72,1.01,Plantago,canoe,0
+20,7,1975,SNM_East,2,2,Perognathus,baileyi,LF1,2.88,1.68,1.01,Plantago,canoe,0
+20,7,1975,SNM_East,2,2,Perognathus,baileyi,LF1,2.91,1.45,0.95,Plantago,canoe,0
+20,7,1975,SNM_East,2,2,Perognathus,baileyi,LF1,13.15,1.21,0.68,,grass,0
+20,7,1975,SNM_East,2,2,Perognathus,baileyi,LF1,13.08,1.27,0.56,,grass,0
+20,7,1975,SNM_East,2,2,Perognathus,baileyi,LF1,10.92,1.29,0.53,,grass,0
+20,7,1975,SNM_East,2,2,Perognathus,baileyi,LF1,9.57,1.24,0.51,,grass,0
+20,7,1975,SNM_East,2,2,Perognathus,baileyi,LF1,10.10,1.32,0.52,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,4.57,3.52,1.41,Plantago,canoe,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,1.90,1.33,1.01,Carnegiea,saguaro,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,1.83,1.41,0.93,Carnegiea,saguaro,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,2.41,1.34,0.86,Plantago,canoe,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,7.15,1.40,0.63,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,8.18,1.35,0.63,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,9.15,1.45,0.48,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,8.18,1.20,0.42,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,8.78,1.50,0.56,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,10.04,0.96,0.70,,grass,1
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,6.63,1.20,0.55,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,7.49,1.11,0.33,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,7.57,1.25,0.49,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,9.38,1.28,0.78,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,6.22,1.01,0.50,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,6.83,1.15,0.49,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,8.13,0.98,0.56,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,8.26,1.20,0.59,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,6.83,1.20,0.46,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,8.54,1.12,0.59,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,8.89,1.33,0.75,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,7.76,1.03,0.45,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,8.77,1.02,0.61,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,9.61,1.42,0.60,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,7.33,1.20,0.48,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,10.17,1.39,0.69,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,7.42,1.10,0.62,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,7.87,1.32,0.49,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,6.74,1.05,0.64,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,8.64,1.10,0.62,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,9.24,1.61,0.48,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,8.84,1.38,0.50,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,9.27,1.13,0.57,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,7.75,1.18,0.62,,grass,0
+22,7,1975,SNM_East,7,1,Perognathus,baileyi,LF2,7.69,5.60,4.93,,?,1
+23,7,1975,SNM_East,7,2,Perognathus,baileyi,LF3,2.82,1.80,1.31,Plantago,phony seed,1
+23,7,1975,SNM_East,7,2,Perognathus,baileyi,LF3,3.17,1.67,0.68,Plantago,phony seed,1
+23,7,1975,SNM_East,7,2,Perognathus,baileyi,LF3,3.88,2.92,1.05,Plantago,phony seed,1
+23,7,1975,SNM_East,7,2,Perognathus,baileyi,LF3,1.89,1.02,0.80,Plantago,phony seed,1
+23,7,1975,SNM_East,7,2,Perognathus,baileyi,LF3,3.07,1.99,1.10,Plantago,phony seed,1
+23,7,1975,SNM_East,7,2,Perognathus,baileyi,LF3,2.92,2.85,1.96,,flower,1
+23,7,1975,SNM_East,7,2,Perognathus,baileyi,LF3,3.71,2.73,2.18,,flower,1

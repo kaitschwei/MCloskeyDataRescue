@@ -32,3 +32,7 @@ Day,Month,Year,Location,Plot,Station,Genus,Species,Identification,TotalSeeds
 20,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,4
 20,7,1975,SNM_East,4,7,Perognathus,baileyi,RF1,24
 20,7,1975,SNM_East,1,2,Perognathus,baileyi,RF2,2
+20,7,1975,SNM_East,2,2,Perognathus,baileyi,LF1,7
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,34
+22,7,1975,SNM_East,7,1,Perognathus,baileyi,LF2,1
+23,7,1975,SNM_East,7,2,Perognathus,baileyi,LF3,7
