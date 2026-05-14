@@ -70,3 +70,5 @@ Day,Month,Year,Location,Plot,Station,Genus,Species,Identification,TotalSeeds,Fla
 4,7,1975,SNM_East,3,8,Perognathus,penicillatus,RF2,1,0
 6,7,1975,SNM_East,5,5,Perognathus,penicillatus,LF1,10,0
 6,7,1975,SNM_East,2,4,Perognathus,penicillatus,RF1,3,0
+9,7,1975,SNM_West,2,4,Perognathus,penicillatus,LF4,6,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,381,0
