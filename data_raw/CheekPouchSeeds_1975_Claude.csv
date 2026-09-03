@@ -1,0 +1,1415 @@
+Day,Month,Year,Location,Plot,Station,Genus,Species,Identification,SeedLength,MajorWidth,MinorWidth,SeedGenus,SeedDescription,Flag
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.75,1.55,0.11,Plantago,trans wing,1
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.57,1.18,0.74,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.4,1.08,0.73,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.56,1.36,0.89,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.33,1.2,0.82,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.19,1.04,0.68,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.49,1.22,0.71,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.52,1.09,0.74,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.66,1.14,0.72,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.52,1.17,0.71,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.8,1.31,0.75,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.38,1.04,0.69,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,1.85,1.07,0.67,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.38,1.16,0.78,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.45,1.27,0.79,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.43,1.13,0.76,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.57,1.25,0.75,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.59,1.19,0.78,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.57,1.17,0.73,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.64,1.17,0.78,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.52,1.1,0.76,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,1.95,1.07,0.47,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.39,1.11,0.94,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.39,1.06,0.74,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.32,1,0.68,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.69,1.17,0.79,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.58,1.11,0.71,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.55,1.22,0.78,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.59,1.16,0.73,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.27,0.98,0.62,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.26,0.93,0.63,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.5,1.16,0.66,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.53,1.18,0.73,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.51,1.13,0.71,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.49,1.23,0.84,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.37,1.02,0.72,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.52,1.09,0.69,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.44,1.08,0.78,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.44,1.13,0.72,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.48,1.13,0.78,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.35,1.03,0.71,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.25,0.9,0.56,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.47,1.16,0.72,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.56,1.2,0.75,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.15,1.01,0.69,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.53,1.16,0.78,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.18,1.05,0.78,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.59,1.15,0.7,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.13,1.09,0.62,Plantago,little canoe,0
+13,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.53,1.22,0.78,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,1.61,1.57,0.57,Lesquerella,bladderpod,1
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,1.92,1.64,0.47,Lesquerella,bladderpod,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,1.85,1.64,0.44,Lesquerella,bladderpod,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,1.77,1.54,0.52,Lesquerella,bladderpod,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,1.68,1.54,0.48,Lesquerella,bladderpod,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,1.78,1.63,0.46,Lesquerella,bladderpod,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.33,1.09,0.19,Plantago,light trans wing,1
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.12,1.12,0.13,Plantago,,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,1.88,1.2,0.17,Plantago,,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.37,1.19,0.14,Plantago,,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.66,0.74,0.13,Plantago,,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.05,0.86,0.13,Plantago,,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,1.99,1.32,0.18,Plantago,,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.08,1.3,0.17,Plantago,,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.24,1.46,0.17,Plantago,,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.23,1.21,0.19,Plantago,,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.67,1.13,0.13,Plantago,,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.37,1.14,0.15,Plantago,,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.46,1.27,0.15,Plantago,,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.27,1.19,0.15,Plantago,,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.03,1.08,0.13,Plantago,,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.41,1.11,0.15,Plantago,,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,1.98,1.11,0.13,Plantago,,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.49,1.05,0.16,Plantago,,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.41,1.22,0.15,Plantago,,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,1.99,1.2,0.14,Plantago,,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.06,1.11,0.13,Plantago,,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,4.46,1.71,1.64,,big cactus fruit,1
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,6.27,2.01,1.70,,big cactus fruit,1
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,6.59,2.16,2.10,,big cactus fruit,1
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,5.84,2.16,2.09,,big cactus fruit,1
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,6.62,2.41,1.96,,big cactus fruit,1
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,5.70,2.24,1.84,,big cactus fruit,1
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.50,1.04,0.64,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,1.92,0.86,0.57,Plantago,little canoe,1
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.46,1.06,0.64,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.16,1.01,0.61,Plantago,little canoe,1
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.49,1.06,0.69,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.14,0.91,0.65,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.21,1.02,0.61,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.57,1.20,0.74,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.23,0.89,0.60,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.04,0.95,0.63,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.21,0.97,0.59,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,1.92,0.83,0.50,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.09,1.00,0.63,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.18,0.94,0.57,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,1.96,0.94,0.68,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.21,0.94,0.64,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.04,0.95,0.56,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,1.86,0.91,0.56,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.13,0.94,0.55,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.64,1.07,0.67,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,1.97,0.98,0.65,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.23,1.04,0.62,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.62,1.16,0.81,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.27,1.09,0.73,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.45,1.13,0.66,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.18,0.98,0.62,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.09,1.01,0.60,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.37,1.13,0.66,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.08,1.04,0.63,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.01,0.91,0.59,Plantago,little canoe,1
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.17,0.96,0.60,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.01,1.00,0.58,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.53,1.08,0.70,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.45,1.24,0.70,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.26,0.97,0.53,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.29,0.99,0.60,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.20,1.06,0.64,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.09,0.97,0.60,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.25,0.98,0.60,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.37,1.08,0.68,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.37,1.10,0.66,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.15,1.04,0.63,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.19,0.94,0.78,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.32,1.12,0.61,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.60,1.12,0.66,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.05,0.93,0.58,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.27,0.89,0.57,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.07,0.95,0.61,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.28,0.96,0.59,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.46,1.21,0.78,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.44,1.13,0.64,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.08,0.98,0.58,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.58,1.19,0.71,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.1,0.88,0.5,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.44,1.06,0.7,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.11,0.98,0.61,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.38,1.03,0.62,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.6,1.24,0.72,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.17,0.98,0.59,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.14,0.9,0.6,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.25,0.99,0.58,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.71,1.29,0.83,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.83,1.27,0.88,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.43,1.13,0.72,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.5,1.11,0.68,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.38,1.23,0.75,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.29,1.01,0.61,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.17,1.03,0.64,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.16,0.99,0.56,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.65,1.16,0.68,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,1.96,0.92,0.56,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.48,1.08,0.64,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.36,1.01,0.62,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.4,1.19,0.68,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.26,1.03,0.63,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.33,1.0,0.62,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.42,1.1,0.62,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.47,1.14,0.68,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.78,1.17,0.68,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,1.78,0.84,0.51,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.25,1.09,0.66,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.55,1.2,0.69,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.2,1.03,0.63,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.72,1.25,0.73,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.02,0.91,0.54,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.65,1.2,0.71,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.08,1.04,0.63,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,1.76,0.89,0.57,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.2,1.02,0.64,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.59,1.2,0.67,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.15,1.02,0.59,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.22,1.07,0.65,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.26,0.95,0.6,Plantago,little canoe,1
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.15,0.93,0.6,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.56,1.09,0.69,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.27,0.97,0.65,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.52,1.06,0.66,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.27,1.05,0.56,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.43,1.04,0.66,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.51,1.2,0.71,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.01,0.91,0.55,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.12,0.98,0.65,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.35,1.18,0.65,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.3,0.95,0.6,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.08,0.9,0.55,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.01,0.94,0.59,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.1,1.01,0.63,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,1.75,0.89,0.54,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.27,1.02,0.63,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.43,1.03,0.63,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.24,0.93,0.57,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.36,1.04,0.65,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.49,1.09,0.69,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.21,0.98,0.57,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.66,1.25,0.74,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.35,1.08,0.68,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.09,1.03,0.66,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.19,0.95,0.63,Plantago,little canoe,1
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.32,1.04,0.66,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,1.98,0.87,0.57,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.32,1.15,0.78,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.4,1.06,0.68,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,1.99,0.96,0.62,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.39,1.2,0.89,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.22,1.06,0.68,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.64,1.21,0.68,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.28,1.1,0.67,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.51,1.1,0.68,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.32,1.06,0.63,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.15,0.98,0.62,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.21,1.08,0.64,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.66,1.19,0.7,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.05,1.05,0.66,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.18,0.94,0.6,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.35,1.07,0.79,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.11,0.97,0.64,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.63,1.31,0.78,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.41,1.01,0.64,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.18,0.99,0.52,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,1.85,0.88,0.54,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.23,1.01,0.62,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.5,1.19,0.74,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.2,1.01,0.6,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.07,0.98,0.61,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.35,1.14,0.69,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.13,0.99,0.63,Plantago,little canoe,0
+15,6,1975,SNM_East,6,,Perognathus,amplus,LF1,2.15,1.04,0.59,Plantago,little canoe,0
+28,6,1975,SNM_West,7,4,Perognathus,amplus,LF2,3.55,2.82,2.60,,flower head,1
+6,7,1975,SNM_East,1,5,Perognathus,amplus,RF4,3.00,1.70,1.25,,flower head,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.27,0.80,0.80,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.44,0.80,0.80,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.13,0.68,0.68,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.29,0.84,0.84,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.47,0.86,0.86,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.32,0.73,0.73,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.40,0.83,0.83,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.52,0.76,0.76,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.50,0.88,0.88,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.33,0.82,0.82,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.31,0.73,0.73,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.36,0.78,0.78,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.07,0.73,0.73,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.41,0.85,0.85,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.46,0.83,0.83,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.45,0.92,0.92,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.22,0.71,0.71,Erodium,little brown teardrop,1
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.35,0.76,0.76,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.37,0.78,0.78,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.40,0.82,0.82,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.46,0.80,0.80,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.37,0.81,0.81,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.23,0.75,0.75,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.35,0.78,0.78,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.27,0.76,0.76,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.21,0.76,0.76,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.40,0.79,0.79,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.37,0.69,0.69,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.72,1.18,0.68,Plantago,little canoe,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.47,1.21,0.72,Plantago,little canoe,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.38,1.36,1.03,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.34,1.33,1.02,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.38,1.36,1.03,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.61,1.33,1.19,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.47,1.41,1.14,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.59,1.44,1.03,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.94,1.55,1.02,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.74,1.68,1.11,,Different Species ?,1
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.68,1.30,0.94,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.58,1.53,1.01,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.36,1.26,1.02,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.62,1.47,1.18,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.60,1.46,1.08,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.50,1.17,0.74,Plantago,little canoe,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.13,0.71,0.71,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.39,0.82,0.82,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.21,0.85,0.85,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.34,0.76,0.76,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.35,0.78,0.78,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.18,0.82,0.82,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.35,0.80,0.80,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.32,0.82,0.82,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.25,0.78,0.78,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.34,0.79,0.79,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.54,0.89,0.89,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.55,0.86,0.86,Erodium,little brown teardrop,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.16,1.13,0.82,Ferocactus,little black round,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.12,1.12,0.67,Ferocactus,little black round,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.13,1.02,0.87,Ferocactus,little black round,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.13,1.05,0.85,Ferocactus,little black round,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.10,1.08,0.84,Ferocactus,little black round,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.26,1.09,0.84,Ferocactus,little black round,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.23,1.08,0.78,Ferocactus,little black round,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.10,1.04,0.74,Ferocactus,little black round,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.15,1.04,0.82,Ferocactus,little black round,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.22,1.06,0.86,Ferocactus,little black round,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.19,1.09,0.83,Ferocactus,little black round,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.13,1.07,0.86,Ferocactus,little black round,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.15,1.15,0.94,Ferocactus,little black round,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.16,1.11,0.88,Ferocactus,little black round,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.12,1.08,0.93,Ferocactus,little black round,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.22,1.06,0.85,Ferocactus,little black round,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.16,1.14,0.87,Ferocactus,little black round,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.23,1.02,0.88,Ferocactus,little black round,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.18,1.04,0.81,Ferocactus,little black round,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.23,1.12,0.88,Ferocactus,little black round,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.17,1.08,0.88,Ferocactus,little black round,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.34,1.09,0.89,Ferocactus,little black round,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.15,1.08,0.92,Ferocactus,little black round,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.17,1.13,0.89,Ferocactus,little black round,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.14,1.04,0.84,Ferocactus,little black round,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.19,1.05,0.76,Ferocactus,little black round,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.17,1.02,0.84,Ferocactus,little black round,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.13,1.06,0.87,Ferocactus,little black round,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.05,1.17,0.85,Ferocactus,little black round,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.52,0.80,0.80,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.50,0.81,0.81,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.33,0.79,0.79,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.21,0.74,0.74,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.08,0.70,0.70,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.18,0.75,0.75,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.35,0.77,0.77,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.02,0.72,0.72,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.39,0.91,0.91,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.28,0.74,0.74,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.32,0.74,0.74,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.17,0.81,0.81,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.32,0.80,0.80,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.12,0.68,0.68,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.19,0.89,0.63,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.39,0.89,0.85,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.33,0.72,0.72,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.36,0.75,0.75,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.42,0.79,0.79,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.28,0.74,0.74,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.11,0.71,0.71,Lotus,little tetra,0
+18,7,1975,SNM_East,7,5,Perognathus,amplus,RF3,2.07,0.65,0.65,Lotus,little tetra,0
+31,7,1975,SNM_East,1,5,Perognathus,amplus,RF4,2.93,2.20,1.19,,,1
+31,7,1975,SNM_East,1,5,Perognathus,amplus,RF4,3.12,1.21,0.75,Larrea,creosote,0
+4,8,1975,SNM_East,7,4,Perognathus,amplus,RF2,4.27,1.15,0.69,,grass?,1
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.51,1.43,1.13,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.46,1.42,1.03,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.42,1.36,1.12,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.35,1.29,0.96,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.70,1.44,1.14,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.52,1.38,1.09,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.71,1.44,0.98,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.64,1.39,0.97,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.75,1.61,1.22,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.87,1.52,1.27,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.43,1.24,1.13,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.50,1.39,0.98,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.71,1.57,1.10,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.50,1.47,0.90,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.69,1.59,1.09,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.39,1.30,0.96,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.63,1.58,1.09,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.47,1.42,1.11,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.75,1.59,1.13,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.46,1.68,1.05,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.63,1.44,1.09,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.56,1.34,0.93,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.37,1.33,1.02,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.49,1.25,1.06,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.39,1.32,1.09,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.55,1.37,1.06,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.43,1.18,0.95,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.36,1.22,0.93,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.55,1.44,1.12,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.44,1.35,1.01,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.51,1.42,1.00,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.56,1.49,1.14,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.41,1.30,1.05,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.55,1.37,1.05,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.48,1.34,1.10,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.59,1.31,1.27,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.47,1.42,1.09,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.64,1.50,1.14,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.45,1.37,1.01,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.46,1.31,1.02,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.38,1.17,0.90,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.54,1.42,1.10,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.58,1.50,1.07,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.56,1.38,1.08,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.16,1.03,0.81,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.62,1.52,1.06,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,1.42,1.42,1.05,Lotus,little tetra,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,4.06,1.18,0.72,Zinnia,dried stalk,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,3.73,1.35,0.73,Zinnia,dried stalk,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,4.05,1.45,0.63,Zinnia,dried stalk,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,3.88,1.42,0.70,Zinnia,dried stalk,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,3.92,1.38,0.72,Zinnia,dried stalk,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,3.63,1.53,0.72,Zinnia,dried stalk,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,4.10,1.16,0.78,Zinnia,dried stalk,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,3.89,1.28,0.63,Zinnia,dried stalk,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,3.85,1.41,0.68,Zinnia,dried stalk,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,4.01,1.14,0.65,Zinnia,dried stalk,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,3.90,1.35,0.64,Zinnia,dried stalk,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,3.78,1.30,0.59,Zinnia,dried stalk,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,3.99,1.13,0.68,Zinnia,dried stalk,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,3.38,1.16,0.60,Zinnia,dried stalk,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,3.64,1.02,0.48,Zinnia,dried stalk,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,3.68,1.25,0.61,Zinnia,dried stalk,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,3.25,1.20,0.58,Zinnia,dried stalk,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,3.59,1.19,0.55,Zinnia,dried stalk,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,3.70,1.08,0.62,Zinnia,dried stalk,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,2.90,0.79,0.48,Zinnia,dried stalk,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,3.19,0.88,0.54,Zinnia,dried stalk,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,2.98,0.85,0.41,Zinnia,dried stalk,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,2.86,0.93,0.55,Zinnia,dried stalk,0
+5,8,1975,SNM_East,7,4,Perognathus,amplus,LF3,3.07,1.02,0.62,Zinnia,dried stalk,0
+14,8,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.29,1.17,1.01,Lotus,little tetra,0
+14,8,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.75,1.46,1.02,Lotus,little tetra,0
+14,8,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.48,1.28,0.99,Lotus,little tetra,0
+14,8,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.68,1.31,1.04,Lotus,little tetra,0
+14,8,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.75,1.48,1.07,Lotus,little tetra,0
+14,8,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.59,1.30,0.99,Lotus,little tetra,0
+14,8,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.68,1.31,1.09,Lotus,little tetra,0
+14,8,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.68,1.37,1.15,Lotus,little tetra,0
+14,8,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.56,1.42,1.07,Lotus,little tetra,0
+14,8,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.74,1.61,1.11,Lotus,little tetra,0
+14,8,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.47,1.29,0.96,Lotus,little tetra,0
+14,8,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.58,1.35,1.04,Lotus,little tetra,0
+14,8,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.39,1.28,1.05,Lotus,little tetra,1
+14,8,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.76,1.40,1.06,Lotus,little tetra,0
+14,8,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.59,1.35,1.20,Lotus,little tetra,0
+14,8,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.57,1.57,1.06,Lotus,little tetra,0
+14,8,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.53,1.28,1.13,Lotus,little tetra,0
+14,8,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.27,1.03,0.97,Lotus,little tetra,0
+14,8,1975,SNM_East,7,5,Perognathus,amplus,RF3,1.68,1.67,1.19,Lotus,little tetra,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.47,0.93,0.36,bladderpod type seed but not bladderpod,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.63,0.95,0.38,bladderpod type seed but not bladderpod,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.52,0.95,0.37,bladderpod type seed but not bladderpod,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.49,0.99,0.35,bladderpod type seed but not bladderpod,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.57,1.11,0.38,bladderpod type seed but not bladderpod,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.64,1.06,0.37,bladderpod type seed but not bladderpod,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.73,1.07,0.42,bladderpod type seed but not bladderpod,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.37,0.87,0.32,bladderpod type seed but not bladderpod,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.54,0.97,0.33,bladderpod type seed but not bladderpod,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.62,1.10,0.33,bladderpod type seed but not bladderpod,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.18,0.79,0.29,bladderpod type seed but not bladderpod,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.43,0.90,0.38,bladderpod type seed but not bladderpod,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.54,0.99,0.37,bladderpod type seed but not bladderpod,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.38,0.79,0.29,bladderpod type seed but not bladderpod,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.45,0.86,0.31,bladderpod type seed but not bladderpod,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.48,0.97,0.34,bladderpod type seed but not bladderpod,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.54,0.89,0.44,bladderpod type seed but not bladderpod,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.59,1.04,0.31,bladderpod type seed but not bladderpod,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.41,0.83,0.30,bladderpod type seed but not bladderpod,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.47,1.02,0.33,bladderpod type seed but not bladderpod,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.70,1.21,0.34,bladderpod type seed but not bladderpod,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.65,1.02,0.44,bladderpod type seed but not bladderpod,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.52,1.06,0.43,bladderpod type seed but not bladderpod,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.68,1.02,0.35,bladderpod type seed but not bladderpod,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.48,0.96,0.35,bladderpod type seed but not bladderpod,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.42,0.88,0.27,bladderpod type seed but not bladderpod,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.57,1.00,0.32,bladderpod type seed but not bladderpod,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.56,0.88,0.37,bladderpod type seed but not bladderpod,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.43,0.44,0.44,,long triangle,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.51,0.51,0.51,,long triangle,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.63,0.58,0.39,,long triangle,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.52,0.50,0.50,,long triangle,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.54,0.62,0.62,,long triangle,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.77,0.55,0.55,,long triangle,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.79,0.78,0.78,,long triangle,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.30,0.55,0.55,,long triangle,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.19,0.55,0.55,,long triangle,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.67,0.78,0.78,,long triangle,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.22,0.56,0.56,,long triangle,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.03,0.56,0.56,,long triangle,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.80,0.53,0.53,,long triangle,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.75,0.59,0.59,,long triangle,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.79,0.73,0.73,,long triangle,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.64,0.64,0.64,,long triangle,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,3.82,0.83,0.53,,grass,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,4.63,0.56,0.56,,grass,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,8.37,0.82,0.40,,grass,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.30,0.49,0.40,,small whitish,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.09,0.55,0.33,,small whitish,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.24,0.66,0.45,,small whitish,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.23,0.65,0.49,,small whitish,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.22,0.55,0.32,,small whitish,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.33,0.55,0.33,,small whitish,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.38,0.63,0.36,,small whitish,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.60,1.46,0.39,Plantago,light transparent wing,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.65,1.54,0.40,Plantago,light transparent wing,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,1.98,1.69,0.30,Plantago,light transparent wing,1
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.88,1.52,0.44,Plantago,light transparent wing,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.52,1.38,0.30,Plantago,light transparent wing,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.55,1.71,0.56,Plantago,light transparent wing,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.88,1.29,0.28,Plantago,light transparent wing,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.17,1.25,0.23,Plantago,light transparent wing,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.88,1.56,0.36,Plantago,light transparent wing,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.98,1.63,0.40,Plantago,light transparent wing,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.56,1.55,0.25,Plantago,light transparent wing,1
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.97,1.50,0.35,Plantago,light transparent wing,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.22,1.16,0.26,Plantago,light transparent wing,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.37,1.24,0.29,Plantago,light transparent wing,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,3.00,1.56,0.31,Plantago,light transparent wing,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,3.10,1.70,0.38,Plantago,light transparent wing,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.89,1.64,0.28,Plantago,light transparent wing,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.77,1.46,0.27,Plantago,light transparent wing,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,3.26,1.52,0.28,Plantago,light transparent wing,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.52,1.39,0.28,Plantago,light transparent wing,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.08,1.24,0.18,Plantago,light transparent wing,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,3.12,1.81,0.28,Plantago,light transparent wing,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.05,1.09,0.22,Plantago,light transparent wing,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.52,1.40,0.33,Plantago,light transparent wing,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.60,1.27,0.24,Plantago,light transparent wing,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.94,1.40,0.24,Plantago,light transparent wing,0
+28,6,1975,SNM_West,2,9,Dipodomys,merriami,LF3,2.20,1.32,0.21,Plantago,light transparent wing,0
+6,7,1975,SNM_East,1,2,Dipodomys,merriami,LF3,4.83,0.68,0.30,,grass,0
+6,7,1975,SNM_East,1,2,Dipodomys,merriami,LF3,1.84,1.39,1.13,Carnegiea,saguaro,0
+6,7,1975,SNM_East,1,2,Dipodomys,merriami,LF3,1.75,1.22,1.00,Carnegiea,saguaro,0
+6,7,1975,SNM_East,1,2,Dipodomys,merriami,LF3,1.76,1.25,0.99,Carnegiea,saguaro,0
+6,7,1975,SNM_East,7,6,Dipodomys,merriami,LF2,3.89,1.38,0.99,Larrea,creosote,0
+6,7,1975,SNM_East,7,6,Dipodomys,merriami,LF2,1.92,1.45,1.01,Carnegiea,saguaro,0
+6,7,1975,SNM_East,7,6,Dipodomys,merriami,LF2,3.92,0.72,0.37,,grass,0
+6,7,1975,SNM_East,7,6,Dipodomys,merriami,LF2,1.59,1.33,1.30,Lotus,little tetra,0
+20,7,1975,SNM_East,6,2,Dipodomys,merriami,LF3,4.26,1.47,0.92,Larrea,creosote,0
+20,7,1975,SNM_East,6,2,Dipodomys,merriami,LF3,3.39,1.16,0.85,Larrea,creosote,0
+20,7,1975,SNM_East,6,2,Dipodomys,merriami,LF3,3.63,1.56,0.88,Larrea,creosote,0
+20,7,1975,SNM_East,6,2,Dipodomys,merriami,LF3,3.53,1.24,0.96,Larrea,creosote,0
+20,7,1975,SNM_East,6,2,Dipodomys,merriami,LF3,3.74,1.31,0.93,Larrea,creosote,0
+20,7,1975,SNM_East,6,2,Dipodomys,merriami,LF3,4.11,1.32,1.00,Larrea,creosote,0
+20,7,1975,SNM_East,6,1,Dipodomys,merriami,LF2,7.08,0.58,0.36,,grass,0
+22,7,1975,SNM_East,6,1,Dipodomys,merriami,LF2,3.06,1.71,1.00,Larrea,creosote,0
+22,7,1975,SNM_East,6,1,Dipodomys,merriami,LF2,2.62,1.34,1.03,Larrea,creosote,0
+22,7,1975,SNM_East,6,1,Dipodomys,merriami,LF2,1.31,1.26,0.82,Larrea,creosote,0
+22,7,1975,SNM_East,6,5,Dipodomys,merriami,RF4,5.29,3.49,2.23,Prosopis,mesquite,0
+22,7,1975,SNM_East,6,5,Dipodomys,merriami,RF4,5.20,3.73,1.85,Prosopis,mesquite,0
+22,7,1975,SNM_East,6,5,Dipodomys,merriami,RF4,5.59,3.54,2.71,Prosopis,mesquite,0
+22,7,1975,SNM_East,6,5,Dipodomys,merriami,RF4,5.68,3.98,2.56,Prosopis,mesquite,0
+22,7,1975,SNM_East,6,5,Dipodomys,merriami,RF4,5.68,3.81,2.58,Prosopis,mesquite,0
+22,7,1975,SNM_East,6,5,Dipodomys,merriami,RF4,4.21,3.41,1.59,Prosopis,mesquite,0
+22,7,1975,SNM_East,6,5,Dipodomys,merriami,RF4,5.66,3.70,2.53,Prosopis,mesquite,0
+22,7,1975,SNM_East,6,5,Dipodomys,merriami,RF4,1.71,1.29,1.15,Lotus,tetra waxy stem,0
+22,7,1975,SNM_East,6,5,Dipodomys,merriami,RF4,1.99,1.41,1.05,Lotus,tetra waxy stem,0
+22,7,1975,SNM_East,6,5,Dipodomys,merriami,RF4,1.44,1.21,1.15,Lotus,tetra waxy stem,0
+22,7,1975,SNM_East,6,5,Dipodomys,merriami,RF4,1.50,1.38,1.05,Lotus,tetra waxy stem,0
+22,7,1975,SNM_East,6,5,Dipodomys,merriami,RF4,1.48,1.28,1.06,Lotus,tetra waxy stem,0
+22,7,1975,SNM_East,6,5,Dipodomys,merriami,RF4,1.48,1.47,1.18,Lotus,tetra waxy stem,0
+22,7,1975,SNM_East,6,5,Dipodomys,merriami,RF4,1.55,1.28,1.01,Lotus,tetra waxy stem,0
+22,7,1975,SNM_East,6,5,Dipodomys,merriami,RF4,1.71,1.52,1.05,Lotus,tetra waxy stem,0
+22,7,1975,SNM_East,6,5,Dipodomys,merriami,RF4,1.66,1.53,1.06,Lotus,tetra waxy stem,0
+22,7,1975,SNM_East,6,5,Dipodomys,merriami,RF4,1.68,1.51,1.02,Lotus,tetra waxy stem,0
+22,7,1975,SNM_East,6,5,Dipodomys,merriami,RF4,1.59,1.57,1.14,Lotus,tetra waxy stem,0
+22,7,1975,SNM_East,6,5,Dipodomys,merriami,RF4,1.68,1.43,0.96,Lotus,tetra waxy stem,0
+22,7,1975,SNM_East,6,5,Dipodomys,merriami,RF4,1.56,1.55,1.13,Lotus,tetra waxy stem,0
+22,7,1975,SNM_East,6,5,Dipodomys,merriami,RF4,1.63,1.56,1.06,Lotus,tetra waxy stem,0
+22,7,1975,SNM_East,6,5,Dipodomys,merriami,RF4,1.31,1.16,0.84,Lotus,tetra waxy stem,0
+22,7,1975,SNM_East,6,5,Dipodomys,merriami,RF4,1.56,1.22,1.13,Lotus,tetra waxy stem,0
+22,7,1975,SNM_East,6,5,Dipodomys,merriami,RF4,1.51,1.42,1.04,Lotus,tetra waxy stem,0
+22,7,1975,SNM_East,6,5,Dipodomys,merriami,RF4,1.60,1.29,1.16,Lotus,tetra waxy stem,0
+22,7,1975,SNM_East,6,5,Dipodomys,merriami,RF4,1.52,1.28,1.00,Lotus,tetra waxy stem,0
+22,7,1975,SNM_East,6,5,Dipodomys,merriami,RF4,1.36,1.20,1.20,,little melon,0
+22,7,1975,SNM_East,6,5,Dipodomys,merriami,RF4,1.28,1.17,1.17,,little melon,0
+24,7,1975,SNM_East,5,8,Dipodomys,merriami,LF2,3.05,0.90,0.47,Larrea,creosote,0
+24,7,1975,SNM_East,5,8,Dipodomys,merriami,LF2,2.69,1.00,0.80,Larrea,creosote,0
+24,7,1975,SNM_East,5,8,Dipodomys,merriami,LF2,3.46,1.24,1.04,Larrea,creosote,0
+24,7,1975,SNM_East,5,8,Dipodomys,merriami,LF2,3.58,1.02,0.63,Larrea,creosote,0
+24,7,1975,SNM_East,5,8,Dipodomys,merriami,LF2,3.67,1.40,0.68,Larrea,creosote,0
+24,7,1975,SNM_East,5,8,Dipodomys,merriami,LF2,4.07,1.55,0.99,Larrea,creosote,0
+24,7,1975,SNM_East,5,8,Dipodomys,merriami,LF2,3.48,1.37,1.07,Larrea,creosote,0
+24,7,1975,SNM_East,5,8,Dipodomys,merriami,LF2,3.07,1.30,0.92,Larrea,creosote,0
+24,7,1975,SNM_East,5,8,Dipodomys,merriami,LF2,3.96,1.54,0.87,Larrea,creosote,0
+30,7,1975,SNM_East,5,6,Dipodomys,merriami,RF4,4.84,4.33,2.02,Opuntia,prickly pear,0
+31,7,1975,SNM_East,5,2,Dipodomys,merriami,RF4,1.98,1.46,1.09,Carnegiea,saguaro,0
+31,7,1975,SNM_East,5,2,Dipodomys,merriami,RF4,2.07,1.41,1.10,Carnegiea,saguaro,0
+31,7,1975,SNM_East,5,2,Dipodomys,merriami,RF4,1.93,1.38,1.07,Carnegiea,saguaro,0
+31,7,1975,SNM_East,5,2,Dipodomys,merriami,RF4,1.88,1.39,1.07,Carnegiea,saguaro,0
+31,7,1975,SNM_East,5,2,Dipodomys,merriami,RF4,2.05,1.49,1.14,Carnegiea,saguaro,0
+31,7,1975,SNM_East,5,2,Dipodomys,merriami,RF4,1.93,1.42,1.05,Carnegiea,saguaro,0
+31,7,1975,SNM_East,5,2,Dipodomys,merriami,RF4,1.77,1.46,0.89,Lotus,little tetra,0
+31,7,1975,SNM_East,5,2,Dipodomys,merriami,RF4,1.62,1.37,1.05,Lotus,glossy coat - like a small stone,1
+31,7,1975,SNM_East,5,2,Dipodomys,merriami,RF4,3.99,1.64,1.02,Larrea,creosote,0
+31,7,1975,SNM_East,5,2,Dipodomys,merriami,RF4,3.83,1.47,1.00,Larrea,creosote,0
+4,8,1975,SNM_East,6,3,Dipodomys,merriami,LF2,5.61,3.99,1.99,Prosopis,mesquite,0
+4,8,1975,SNM_East,6,3,Dipodomys,merriami,LF2,3.51,2.80,2.08,,light green round waxy,1
+4,8,1975,SNM_East,6,3,Dipodomys,merriami,LF2,3.23,3.18,2.05,Opuntia,prickly pear,1
+4,8,1975,SNM_East,6,3,Dipodomys,merriami,LF2,3.48,3.04,1.93,Opuntia,prickly pear,0
+4,8,1975,SNM_East,6,3,Dipodomys,merriami,LF2,3.68,3.25,2.11,Opuntia,prickly pear,0
+4,8,1975,SNM_East,6,3,Dipodomys,merriami,LF2,3.92,3.20,2.16,Opuntia,prickly pear,0
+4,8,1975,SNM_East,6,3,Dipodomys,merriami,LF2,3.95,3.39,2.02,Opuntia,prickly pear,0
+4,8,1975,SNM_East,6,3,Dipodomys,merriami,LF2,3.77,3.41,2.16,Opuntia,prickly pear,0
+4,8,1975,SNM_East,6,3,Dipodomys,merriami,LF2,3.47,3.12,1.90,Opuntia,prickly pear,1
+4,8,1975,SNM_East,6,3,Dipodomys,merriami,LF2,3.50,3.29,2.09,Opuntia,prickly pear,0
+4,8,1975,SNM_East,6,3,Dipodomys,merriami,LF2,3.53,3.37,2.01,Opuntia,prickly pear,0
+4,8,1975,SNM_East,6,4,Dipodomys,merriami,RF4,3.78,1.18,0.81,Larrea,creosote,0
+4,8,1975,SNM_East,6,4,Dipodomys,merriami,RF4,3.14,1.23,0.58,Larrea,creosote,0
+4,8,1975,SNM_East,6,4,Dipodomys,merriami,RF4,4.22,1.34,0.90,Larrea,creosote,1
+4,8,1975,SNM_East,6,4,Dipodomys,merriami,RF4,3.39,1.22,0.94,Larrea,creosote,0
+5,8,1975,SNM_East,6,4,Dipodomys,merriami,RF4,4.87,3.61,1.76,Prosopis,mesquite,1
+5,8,1975,SNM_East,6,4,Dipodomys,merriami,RF4,5.36,4.70,1.99,Opuntia,prickly pear,0
+5,8,1975,SNM_East,6,4,Dipodomys,merriami,RF4,4.92,4.30,2.19,Opuntia,prickly pear,0
+5,8,1975,SNM_East,6,4,Dipodomys,merriami,RF4,4.56,4.09,2.28,Opuntia,prickly pear,0
+5,8,1975,SNM_East,6,4,Dipodomys,merriami,RF4,4.65,4.62,2.07,Opuntia,prickly pear,0
+5,8,1975,SNM_East,6,4,Dipodomys,merriami,RF4,4.71,4.26,2.16,Opuntia,prickly pear,0
+5,8,1975,SNM_East,6,4,Dipodomys,merriami,RF4,4.47,4.15,2.01,Opuntia,prickly pear,0
+4,7,1975,SNM_East,1,3,Perognathus,baileyi,LF1,4.10,3.72,2.53,Cylindropuntia,cholla type?,1
+6,7,1975,SNM_East,2,6,Perognathus,baileyi,LF3,6.96,4.05,3.23,Parkinsonia,Probably PV,1
+6,7,1975,SNM_East,2,6,Perognathus,baileyi,LF3,3.83,1.38,0.75,Larrea,creosote,0
+6,7,1975,SNM_East,2,6,Perognathus,baileyi,LF3,3.32,1.85,0.32,,?,1
+6,7,1975,SNM_East,2,6,Perognathus,baileyi,LF3,3.13,0.78,0.41,,?,1
+18,7,1975,SNM_East,7,1,Perognathus,baileyi,LF2,1.67,1.55,1.13,Lotus,little tetra,0
+18,7,1975,SNM_East,7,1,Perognathus,baileyi,LF2,1.59,1.31,1.04,Lotus,little tetra,0
+18,7,1975,SNM_East,7,1,Perognathus,baileyi,LF2,1.61,1.28,1.18,Lotus,little tetra,0
+18,7,1975,SNM_East,2,6,Perognathus,baileyi,,8.50,1.28,0.52,,grass,1
+18,7,1975,SNM_East,2,6,Perognathus,baileyi,,7.68,1.13,0.69,,grass,1
+18,7,1975,SNM_East,2,6,Perognathus,baileyi,,8.28,1.35,0.90,,grass,1
+18,7,1975,SNM_East,2,6,Perognathus,baileyi,,3.73,2.78,1.67,Cylindropuntia,Opuntia (Cholla??,1
+18,7,1975,SNM_East,2,6,Perognathus,baileyi,,2.42,1.81,0.78,,?,1
+18,7,1975,SNM_East,2,6,Perognathus,baileyi,,6.79,3.83,1.27,,?,1
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,2.83,1.17,0.78,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.57,1.29,0.87,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.38,1.32,0.73,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.88,1.28,0.89,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.17,1.26,0.80,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.73,1.29,0.90,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.52,1.13,1.03,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.57,1.31,0.96,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.55,1.42,0.87,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.15,1.23,0.73,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.57,1.22,0.92,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.45,1.23,0.95,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.75,1.30,0.91,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.84,1.25,0.87,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.19,1.17,0.85,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.69,1.15,0.99,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.82,1.34,0.87,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.93,1.47,0.78,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,4.04,1.35,0.85,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,2.61,1.01,0.78,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.43,1.30,1.00,Larrea,creosote,1
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.71,1.20,0.79,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.92,1.32,1.02,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.39,1.31,0.98,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.67,1.33,0.94,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.28,1.45,0.90,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,2.94,1.58,0.89,Larrea,creosote,1
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,2.86,1.47,0.97,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.49,1.30,0.90,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.73,1.41,1.07,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.26,1.39,1.01,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.71,1.43,0.95,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.84,1.38,1.18,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.04,1.32,0.94,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.40,1.30,1.11,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.29,1.06,0.91,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.89,1.26,1.08,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.99,1.17,1.13,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.58,1.18,1.11,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,2.98,1.46,0.89,Larrea,creosote,1
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.00,1.19,0.96,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.50,1.24,0.78,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.52,1.19,0.69,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,2.74,1.29,0.99,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.73,1.21,0.88,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.56,1.33,0.97,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.51,1.39,0.89,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.87,1.44,0.93,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.57,1.29,0.85,Larrea,creosote,1
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.66,1.07,0.73,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.62,1.29,1.02,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.06,1.24,0.76,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,2.73,1.09,0.85,Larrea,creosote,0
+18,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.70,1.50,0.93,Larrea,creosote,0
+18,7,1975,SNM_East,7,7,Perognathus,baileyi,,3.91,1.38,1.10,Larrea,creosote,1
+18,7,1975,SNM_East,4,8,Perognathus,baileyi,LF4,1.96,1.46,0.95,Carnegiea,saguaro,0
+18,7,1975,SNM_East,4,8,Perognathus,baileyi,LF4,1.69,1.25,0.90,Carnegiea,saguaro,0
+18,7,1975,SNM_East,4,8,Perognathus,baileyi,LF4,1.81,1.36,0.99,Carnegiea,saguaro,0
+18,7,1975,SNM_East,4,8,Perognathus,baileyi,LF4,1.98,1.48,1.03,Carnegiea,saguaro,0
+18,7,1975,SNM_East,4,8,Perognathus,baileyi,LF4,1.72,1.24,0.90,Carnegiea,saguaro,0
+18,7,1975,SNM_East,4,8,Perognathus,baileyi,LF4,1.78,1.28,0.95,Carnegiea,saguaro,0
+18,7,1975,SNM_East,4,8,Perognathus,baileyi,LF4,1.77,1.34,1.05,Carnegiea,saguaro,0
+18,7,1975,SNM_East,4,8,Perognathus,baileyi,LF4,4.44,2.93,0.95,Plantago,canoe,0
+20,7,1975,SNM_East,7,5,Perognathus,baileyi,RF3,4.39,1.33,0.92,Larrea,creosote,0
+20,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.78,1.56,0.97,Larrea,creosote,0
+20,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,2.85,1.24,1.05,Larrea,creosote,0
+20,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.34,1.27,0.89,Larrea,creosote,0
+20,7,1975,SNM_East,5,4,Perognathus,baileyi,RF3,3.87,1.37,0.89,Larrea,creosote,0
+20,7,1975,SNM_East,4,7,Perognathus,baileyi,RF1,1.88,1.36,1.01,Carnegiea,saguaro,0
+20,7,1975,SNM_East,4,7,Perognathus,baileyi,RF1,1.75,1.34,0.94,Carnegiea,saguaro,0
+20,7,1975,SNM_East,4,7,Perognathus,baileyi,RF1,1.96,1.39,0.97,Carnegiea,saguaro,0
+20,7,1975,SNM_East,4,7,Perognathus,baileyi,RF1,1.90,1.41,0.98,Carnegiea,saguaro,0
+20,7,1975,SNM_East,4,7,Perognathus,baileyi,RF1,1.97,1.26,0.97,Carnegiea,saguaro,0
+20,7,1975,SNM_East,4,7,Perognathus,baileyi,RF1,1.90,1.31,0.99,Carnegiea,saguaro,0
+20,7,1975,SNM_East,4,7,Perognathus,baileyi,RF1,1.85,1.40,0.99,Carnegiea,saguaro,0
+20,7,1975,SNM_East,4,7,Perognathus,baileyi,RF1,1.87,1.35,0.98,Carnegiea,saguaro,0
+20,7,1975,SNM_East,4,7,Perognathus,baileyi,RF1,1.92,1.40,0.94,Carnegiea,saguaro,0
+20,7,1975,SNM_East,4,7,Perognathus,baileyi,RF1,1.81,1.38,1.03,Carnegiea,saguaro,0
+20,7,1975,SNM_East,4,7,Perognathus,baileyi,RF1,1.82,1.44,1.02,Carnegiea,saguaro,0
+20,7,1975,SNM_East,4,7,Perognathus,baileyi,RF1,1.99,1.52,0.99,Carnegiea,saguaro,0
+20,7,1975,SNM_East,4,7,Perognathus,baileyi,RF1,1.93,1.39,1.04,Carnegiea,saguaro,0
+20,7,1975,SNM_East,4,7,Perognathus,baileyi,RF1,1.87,1.30,0.97,Carnegiea,saguaro,0
+20,7,1975,SNM_East,4,7,Perognathus,baileyi,RF1,1.97,1.46,1.01,Carnegiea,saguaro,0
+20,7,1975,SNM_East,4,7,Perognathus,baileyi,RF1,1.94,1.32,1.02,Carnegiea,saguaro,0
+20,7,1975,SNM_East,4,7,Perognathus,baileyi,RF1,2.12,1.34,1.00,Carnegiea,saguaro,0
+20,7,1975,SNM_East,4,7,Perognathus,baileyi,RF1,2.04,1.37,1.03,Carnegiea,saguaro,0
+20,7,1975,SNM_East,4,7,Perognathus,baileyi,RF1,1.92,1.38,0.97,Carnegiea,saguaro,0
+20,7,1975,SNM_East,4,7,Perognathus,baileyi,RF1,2.00,1.41,0.93,Carnegiea,saguaro,0
+20,7,1975,SNM_East,4,7,Perognathus,baileyi,RF1,1.77,1.22,1.02,Carnegiea,saguaro,0
+20,7,1975,SNM_East,4,7,Perognathus,baileyi,RF1,2.00,1.45,0.94,Carnegiea,saguaro,0
+20,7,1975,SNM_East,4,7,Perognathus,baileyi,RF1,1.88,1.43,0.91,Carnegiea,saguaro,0
+20,7,1975,SNM_East,4,7,Perognathus,baileyi,RF1,4.96,4.04,1.67,Cylindropuntia,cholla,1
+20,7,1975,SNM_East,1,2,Perognathus,baileyi,RF2,2.05,1.06,1.02,Plantago,?,0
+20,7,1975,SNM_East,1,2,Perognathus,baileyi,RF2,3.66,2.72,1.01,Plantago,canoe,0
+20,7,1975,SNM_East,2,2,Perognathus,baileyi,LF1,2.88,1.68,1.01,Plantago,canoe,0
+20,7,1975,SNM_East,2,2,Perognathus,baileyi,LF1,2.91,1.45,0.95,Plantago,canoe,0
+20,7,1975,SNM_East,2,2,Perognathus,baileyi,LF1,13.15,1.21,0.68,,grass,0
+20,7,1975,SNM_East,2,2,Perognathus,baileyi,LF1,13.08,1.27,0.56,,grass,0
+20,7,1975,SNM_East,2,2,Perognathus,baileyi,LF1,10.92,1.29,0.53,,grass,0
+20,7,1975,SNM_East,2,2,Perognathus,baileyi,LF1,9.57,1.24,0.51,,grass,0
+20,7,1975,SNM_East,2,2,Perognathus,baileyi,LF1,10.10,1.32,0.52,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,4.57,3.52,1.41,Plantago,canoe,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,1.90,1.33,1.01,Carnegiea,saguaro,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,1.83,1.41,0.93,Carnegiea,saguaro,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,2.41,1.34,0.86,Plantago,canoe,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,7.15,1.40,0.63,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,8.18,1.35,0.63,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,9.15,1.45,0.48,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,8.18,1.20,0.42,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,8.78,1.50,0.56,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,10.04,0.96,0.70,,grass,1
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,6.63,1.20,0.55,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,7.49,1.11,0.33,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,7.57,1.25,0.49,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,9.38,1.28,0.78,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,6.22,1.01,0.50,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,6.83,1.15,0.49,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,8.13,0.98,0.56,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,8.26,1.20,0.59,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,6.83,1.20,0.46,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,8.54,1.12,0.59,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,8.89,1.33,0.75,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,7.76,1.03,0.45,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,8.77,1.02,0.61,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,9.61,1.42,0.60,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,7.33,1.20,0.48,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,10.17,1.39,0.69,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,7.42,1.10,0.62,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,7.87,1.32,0.49,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,6.74,1.05,0.64,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,8.64,1.10,0.62,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,9.24,1.61,0.48,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,8.84,1.38,0.50,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,9.27,1.13,0.57,,grass,0
+20,7,1975,SNM_East,2,6,Perognathus,baileyi,RF4,7.75,1.18,0.62,,grass,0
+22,7,1975,SNM_East,7,1,Perognathus,baileyi,LF2,7.69,5.60,4.93,,?,1
+23,7,1975,SNM_East,7,2,Perognathus,baileyi,LF3,2.82,1.80,1.31,Plantago,phony seed,1
+23,7,1975,SNM_East,7,2,Perognathus,baileyi,LF3,3.17,1.67,0.68,Plantago,phony seed,1
+23,7,1975,SNM_East,7,2,Perognathus,baileyi,LF3,3.98,2.92,1.05,Plantago,phony seed,1
+23,7,1975,SNM_East,7,2,Perognathus,baileyi,LF3,1.89,1.02,0.80,Plantago,phony seed,1
+23,7,1975,SNM_East,7,2,Perognathus,baileyi,LF3,3.07,1.99,1.10,Plantago,phony seed,1
+23,7,1975,SNM_East,7,2,Perognathus,baileyi,LF3,2.92,2.85,1.96,,flower,1
+23,7,1975,SNM_East,7,2,Perognathus,baileyi,LF3,3.71,2.73,2.18,,flower,1
+23,7,1975,SNM_East,5,2,Perognathus,baileyi,LF1,2.36,1.22,0.55,Plantago,canoe type,0
+23,7,1975,SNM_East,5,2,Perognathus,baileyi,LF1,5.81,2.98,0.93,,hairy coat,1
+23,7,1975,SNM_East,5,2,Perognathus,baileyi,LF1,6.12,2.32,0.96,,hairy coat,1
+23,7,1975,SNM_East,5,2,Perognathus,baileyi,LF1,5.55,2.75,0.85,,hairy coat,1
+24,7,1975,SNM_East,2,3,Perognathus,baileyi,LF1,3.32,1.47,0.70,Larrea,creosote,0
+24,7,1975,SNM_East,1,8,Perognathus,baileyi,LF4,3.55,1.53,0.88,Larrea,creosote,0
+24,7,1975,SNM_East,1,8,Perognathus,baileyi,LF4,2.92,1.54,0.84,Larrea,creosote,0
+24,7,1975,SNM_East,1,8,Perognathus,baileyi,LF4,3.24,1.64,0.85,Larrea,creosote,0
+24,7,1975,SNM_East,1,8,Perognathus,baileyi,LF4,2.73,1.16,0.82,Larrea,creosote,0
+24,7,1975,SNM_East,1,8,Perognathus,baileyi,LF4,3.04,1.15,0.93,Larrea,creosote,0
+24,7,1975,SNM_East,1,8,Perognathus,baileyi,LF4,3.37,1.45,0.78,Larrea,creosote,0
+24,7,1975,SNM_East,1,8,Perognathus,baileyi,LF4,3.33,1.32,0.90,Larrea,creosote,0
+24,7,1975,SNM_East,1,8,Perognathus,baileyi,LF4,3.50,1.43,0.81,Larrea,creosote,0
+24,7,1975,SNM_East,1,8,Perognathus,baileyi,LF4,3.55,1.36,0.89,Larrea,creosote,0
+24,7,1975,SNM_East,1,8,Perognathus,baileyi,LF4,3.27,1.39,0.88,Larrea,creosote,0
+24,7,1975,SNM_East,1,8,Perognathus,baileyi,LF4,1.59,1.16,1.09,,?,1
+24,7,1975,SNM_East,1,8,Perognathus,baileyi,LF4,2.18,1.36,1.18,,?,1
+29,7,1975,SNM_East,4,1,Perognathus,baileyi,RF2,1.73,1.22,0.98,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,1,Perognathus,baileyi,RF2,2.08,1.39,1.13,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,1,Perognathus,baileyi,RF2,2.01,1.55,1.06,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,1,Perognathus,baileyi,RF2,1.83,1.35,0.99,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,1,Perognathus,baileyi,RF2,2.02,1.37,0.99,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,1,Perognathus,baileyi,RF2,1.86,1.33,0.95,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,1,Perognathus,baileyi,RF2,1.59,1.26,0.88,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,1,Perognathus,baileyi,RF2,1.61,1.31,0.99,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,1,Perognathus,baileyi,RF2,1.83,1.35,0.88,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,1,Perognathus,baileyi,RF2,2.07,1.39,1.02,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,1,Perognathus,baileyi,RF2,1.70,1.40,0.90,Carnegiea,saguaro,0
+28,7,1975,SNM_East,4,3,Perognathus,baileyi,RF4,1.62,0.78,0.66,,?,1
+28,7,1975,SNM_East,4,3,Perognathus,baileyi,RF4,2.64,1.03,0.75,,?,1
+29,7,1975,SNM_East,1,7,Perognathus,baileyi,RR1,3.29,1.19,0.88,Larrea,creosote,0
+29,7,1975,SNM_East,1,7,Perognathus,baileyi,RR1,3.98,1.52,0.93,Larrea,creosote,0
+29,7,1975,SNM_East,1,7,Perognathus,baileyi,RR1,3.50,1.07,0.84,Larrea,creosote,0
+29,7,1975,SNM_East,1,7,Perognathus,baileyi,RR1,4.12,1.40,0.87,Larrea,creosote,0
+29,7,1975,SNM_East,1,7,Perognathus,baileyi,RR1,2.93,1.00,0.84,Larrea,creosote,0
+29,7,1975,SNM_East,1,7,Perognathus,baileyi,RR1,3.82,1.40,1.04,Larrea,creosote,0
+29,7,1975,SNM_East,1,7,Perognathus,baileyi,RR1,3.33,1.16,0.88,Larrea,creosote,0
+29,7,1975,SNM_East,1,7,Perognathus,baileyi,RR1,3.98,1.34,0.89,Larrea,creosote,0
+29,7,1975,SNM_East,1,7,Perognathus,baileyi,RR1,3.08,1.15,0.75,Larrea,creosote,0
+29,7,1975,SNM_East,1,7,Perognathus,baileyi,RR1,3.72,1.31,1.03,Larrea,creosote,0
+29,7,1975,SNM_East,1,7,Perognathus,baileyi,RR1,4.55,1.14,0.86,Larrea,creosote,0
+29,7,1975,SNM_East,1,7,Perognathus,baileyi,RR1,3.76,1.51,1.03,Larrea,creosote,0
+29,7,1975,SNM_East,1,7,Perognathus,baileyi,RR1,3.68,1.35,0.96,Larrea,creosote,0
+29,7,1975,SNM_East,1,7,Perognathus,baileyi,RR1,3.85,1.31,0.89,Larrea,creosote,0
+29,7,1975,SNM_East,1,7,Perognathus,baileyi,RR1,4.02,1.22,0.81,Larrea,creosote,0
+29,7,1975,SNM_East,1,7,Perognathus,baileyi,RR1,4.29,1.30,0.89,Larrea,creosote,0
+29,7,1975,SNM_East,1,7,Perognathus,baileyi,RR1,3.71,1.43,0.84,Larrea,creosote,0
+29,7,1975,SNM_East,1,7,Perognathus,baileyi,RR1,2.95,1.13,0.73,Larrea,creosote,0
+29,7,1975,SNM_East,1,7,Perognathus,baileyi,RR1,3.37,1.45,1.05,Larrea,creosote,0
+29,7,1975,SNM_East,1,7,Perognathus,baileyi,RR1,3.76,1.36,0.86,Larrea,creosote,0
+29,7,1975,SNM_East,1,7,Perognathus,baileyi,RR1,2.58,1.19,0.71,Plantago,canoe,0
+29,7,1975,SNM_East,1,7,Perognathus,baileyi,RR1,5.35,3.99,3.00,,pv or mesquite,1
+29,7,1975,SNM_East,5,5,Perognathus,baileyi,RF4,3.63,1.20,0.74,Larrea,creosote,0
+29,7,1975,SNM_East,5,5,Perognathus,baileyi,RF4,2.08,1.17,0.87,,?,1
+29,7,1975,SNM_East,5,5,Perognathus,baileyi,RF4,1.55,0.88,0.50,,?,1
+30,7,1975,SNM_East,2,1,Perognathus,baileyi,RF1,2.93,2.15,1.86,,dried flower,1
+30,7,1975,SNM_East,2,1,Perognathus,baileyi,RF1,3.57,2.51,1.24,,dried flower,1
+30,7,1975,SNM_East,2,1,Perognathus,baileyi,RF1,5.70,1.90,1.05,Larrea,unhusked creosote,1
+30,7,1975,SNM_East,2,1,Perognathus,baileyi,RF1,2.09,0.82,0.52,Larrea,unhusked creosote,1
+30,7,1975,SNM_East,2,1,Perognathus,baileyi,RF1,1.22,0.83,0.78,,dried flower,1
+30,7,1975,SNM_East,2,1,Perognathus,baileyi,RF1,2.08,1.32,1.20,,dried flower,1
+30,7,1975,SNM_East,4,5,Perognathus,baileyi,RF2,2.89,2.20,1.17,,,1
+30,7,1975,SNM_East,4,5,Perognathus,baileyi,RF2,2.40,2.38,1.86,,,1
+30,7,1975,SNM_East,4,5,Perognathus,baileyi,RF2,2.47,2.15,1.16,,,1
+30,7,1975,SNM_East,4,2,Perognathus,baileyi,LF4,4.37,3.16,1.02,Plantago,phony seed?,1
+30,7,1975,SNM_East,4,2,Perognathus,baileyi,LF4,5.15,1.54,0.86,Larrea,creosote,0
+30,7,1975,SNM_East,4,2,Perognathus,baileyi,LF4,4.79,1.82,0.74,Larrea,creosote,0
+31,7,1975,SNM_East,3,1,Perognathus,baileyi,LF2,4.81,4.18,2.32,Opuntia,Opuntia,0
+31,7,1975,SNM_East,3,1,Perognathus,baileyi,LF2,3.95,3.50,1.88,Opuntia,Opuntia,0
+31,7,1975,SNM_East,3,1,Perognathus,baileyi,LF2,4.18,3.70,1.93,Opuntia,Opuntia,0
+31,7,1975,SNM_East,5,4,Perognathus,baileyi,,4.27,1.89,1.39,Larrea,unhusked creosote,1
+31,7,1975,SNM_East,5,4,Perognathus,baileyi,,4.14,1.65,1.36,Larrea,unhusked creosote,1
+31,7,1975,SNM_East,5,4,Perognathus,baileyi,,3.07,1.30,0.84,Larrea,creosote,1
+5,8,1975,SNM_East,7,2,Perognathus,baileyi,LF1,4.27,3.10,1.64,Prosopis,mesquite (?),1
+5,8,1975,SNM_East,7,3,Perognathus,baileyi,RF34,4.33,3.89,1.79,Opuntia,Opuntia,0
+5,8,1975,SNM_East,7,3,Perognathus,baileyi,RF34,4.06,3.67,1.74,Opuntia,Opuntia,0
+5,8,1975,SNM_East,7,7,Perognathus,baileyi,RR1,4.20,3.02,1.15,Plantago,phony seed,1
+5,8,1975,SNM_East,7,7,Perognathus,baileyi,RR1,4.00,3.31,2.69,,flower head,1
+5,8,1975,SNM_East,7,7,Perognathus,baileyi,RR1,4.95,4.81,3.98,,flower head,1
+5,8,1975,SNM_East,7,7,Perognathus,baileyi,RR1,4.69,4.23,2.78,,flower head,1
+5,8,1975,SNM_East,7,7,Perognathus,baileyi,RR1,4.77,3.61,2.28,,flower head,1
+5,8,1975,SNM_East,7,7,Perognathus,baileyi,RR1,2.53,1.23,0.57,Plantago,phony seed,1
+5,8,1975,SNM_East,7,7,Perognathus,baileyi,RR1,2.52,1.02,0.58,Plantago,phony seed,1
+5,8,1975,SNM_East,5,9,Perognathus,baileyi,RF1,3.88,3.20,1.77,Opuntia,Opuntia sp,0
+5,8,1975,SNM_East,5,9,Perognathus,baileyi,RF1,4.34,3.40,1.43,Opuntia,Opuntia sp,0
+14,8,1975,SNM_East,7,2,Perognathus,baileyi,,3.98,3.08,3.08,,flower heads,1
+14,8,1975,SNM_East,7,2,Perognathus,baileyi,,3.41,3.11,2.06,,flower heads,1
+14,8,1975,SNM_East,7,2,Perognathus,baileyi,,3.40,3.14,2.28,,flower heads,1
+14,8,1975,SNM_East,7,2,Perognathus,baileyi,,5.12,3.33,2.63,,flower heads,1
+13,6,1975,SNM_East,6,,Perognathus,penicillatus,LF2,2.48,1.12,0.68,Plantago,canoe husked,0
+13,6,1975,SNM_East,6,,Perognathus,penicillatus,LF2,2.27,1.10,0.70,Plantago,canoe husked,0
+13,6,1975,SNM_East,6,,Perognathus,penicillatus,LF2,2.34,1.11,0.73,Plantago,canoe husked,0
+13,6,1975,SNM_East,6,,Perognathus,penicillatus,LF2,2.48,1.08,0.71,Plantago,canoe husked,0
+13,6,1975,SNM_East,6,,Perognathus,penicillatus,LF2,2.29,1.04,0.69,Plantago,canoe husked,0
+13,6,1975,SNM_East,6,,Perognathus,penicillatus,LF2,2.42,1.10,0.72,Plantago,canoe husked,0
+13,6,1975,SNM_East,6,,Perognathus,penicillatus,LF2,2.48,1.16,0.72,Plantago,canoe husked,0
+13,6,1975,SNM_East,6,,Perognathus,penicillatus,LF2,2.48,1.16,0.71,Plantago,canoe husked,0
+13,6,1975,SNM_East,6,,Perognathus,penicillatus,LF2,1.74,1.07,0.57,,round flat seed,1
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,5.80,4.84,3.93,,?,1
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,4.55,3.81,2.18,,cholla or p.pear,1
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,2.18,1.06,0.65,Plantago,canoe,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,2.38,1.10,0.71,Plantago,canoe,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,2.09,0.98,0.51,Plantago,canoe,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,2.31,1.12,0.69,Plantago,canoe,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,2.16,1.06,0.61,Plantago,canoe,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,2.15,1.03,0.62,Plantago,canoe,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,2.31,1.10,0.68,Plantago,canoe,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,2.26,0.96,0.62,Plantago,canoe,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,2.21,0.99,0.65,Plantago,canoe,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,2.43,1.02,0.71,Plantago,canoe,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,2.22,0.99,0.67,Plantago,canoe,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,2.36,1.05,0.66,Plantago,canoe,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,2.14,1.02,0.69,Plantago,canoe,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,1.99,1.74,0.53,Lesquerella,bladder pod,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,1.97,1.69,0.82,Lesquerella,bladder pod,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,1.65,1.33,0.51,Lesquerella,bladder pod,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,1.67,1.43,0.38,Lesquerella,bladder pod,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,1.67,1.46,0.43,Lesquerella,bladder pod,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,1.21,1.10,0.43,Lesquerella,bladder pod,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,1.73,1.54,0.49,Lesquerella,bladder pod,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,1.97,1.75,0.51,Lesquerella,bladder pod,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,1.50,1.49,0.45,Lesquerella,bladder pod,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,1.84,1.67,0.50,Lesquerella,bladder pod,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,1.76,1.61,0.45,Lesquerella,bladder pod,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,2.03,2.02,0.58,Lesquerella,bladder pod,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,1.63,1.39,0.62,Lesquerella,bladder pod,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,1.95,1.89,0.64,Lesquerella,bladder pod,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,1.88,1.68,0.66,Lesquerella,bladder pod,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,1.72,1.55,0.52,Lesquerella,bladder pod,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,1.83,1.50,0.46,Lesquerella,bladder pod,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,1.81,1.45,0.59,Lesquerella,bladder pod,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,1.76,1.73,0.59,Lesquerella,bladder pod,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,1.85,1.62,0.46,Lesquerella,bladder pod,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,1.33,1.22,0.53,Lesquerella,bladder pod,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,1.44,1.42,0.48,Lesquerella,bladder pod,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,1.46,1.37,0.43,Lesquerella,bladder pod,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,1.69,1.59,0.49,Lesquerella,bladder pod,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,1.78,1.66,0.46,Lesquerella,bladder pod,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,1.53,1.43,0.37,Lesquerella,bladder pod,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,1.76,1.71,0.52,Lesquerella,bladder pod,0
+15,6,1975,SNM_East,6,,Perognathus,penicillatus,LF4,1.91,1.71,0.46,Lesquerella,bladder pod,0
+28,6,1975,SNM_West,2,1,Perognathus,penicillatus,RF1,3.18,1.51,0.89,,pod or flowerhead,1
+28,6,1975,SNM_West,2,6,Perognathus,penicillatus,LF2,2.36,1.37,0.26,Plantago,light winged seed,0
+29,6,1975,SNM_West,6,6,Perognathus,penicillatus,RF2,2.05,1.52,0.94,Carnegiea,saguaro,0
+29,6,1975,SNM_West,6,6,Perognathus,penicillatus,RF2,1.88,1.38,0.91,Carnegiea,saguaro,0
+29,6,1975,SNM_West,2,7,Perognathus,penicillatus,LF2,2.13,1.10,0.68,Plantago,canoe,0
+29,6,1975,SNM_West,2,7,Perognathus,penicillatus,RF3,1.85,1.36,0.97,Carnegiea,saguaro,0
+29,6,1975,SNM_West,2,7,Perognathus,penicillatus,RF3,1.84,1.34,0.98,Carnegiea,saguaro,0
+30,6,1975,SNM_West,2,1,Perognathus,penicillatus,RF2,4.62,2.20,2.00,Lotus,tetrahedron,0
+30,6,1975,SNM_West,2,1,Perognathus,penicillatus,RF2,4.29,2.53,1.59,Lotus,tetrahedron,0
+30,6,1975,SNM_West,2,7,Perognathus,penicillatus,LR1,2.83,1.52,0.41,Plantago,light trans wing,0
+30,6,1975,SNM_West,2,7,Perognathus,penicillatus,LR1,3.08,1.59,0.43,Plantago,light trans wing,0
+30,6,1975,SNM_West,2,7,Perognathus,penicillatus,LR1,3.37,1.74,0.43,Plantago,light trans wing,0
+30,6,1975,SNM_West,2,7,Perognathus,penicillatus,LR1,2.61,1.47,0.38,Plantago,light trans wing,0
+30,6,1975,SNM_West,2,7,Perognathus,penicillatus,LR1,3.05,1.58,0.36,Plantago,light trans wing,0
+30,6,1975,SNM_West,2,7,Perognathus,penicillatus,LR1,2.78,0.45,0.45,,some ?,1
+30,6,1975,SNM_West,2,7,Perognathus,penicillatus,LR1,2.75,0.56,0.56,,some ?,1
+30,6,1975,SNM_West,2,7,Perognathus,penicillatus,LR1,2.81,1.17,0.72,,flasted,1
+30,6,1975,SNM_West,2,7,Perognathus,penicillatus,LR1,5.27,3.18,2.92,,entire flowerhead,1
+30,6,1975,SNM_West,2,9,Perognathus,penicillatus,RR1,3.48,2.06,1.69,Lotus,tetrahedron,0
+30,6,1975,SNM_West,2,9,Perognathus,penicillatus,RR1,3.57,2.56,1.89,Lotus,tetrahedron,0
+30,6,1975,SNM_West,2,9,Perognathus,penicillatus,RR1,4.24,2.78,2.14,,buffy shiny coat,1
+30,6,1975,SNM_West,4,9,Perognathus,penicillatus,LF1,1.98,1.35,0.94,Carnegiea,saguaro,0
+30,6,1975,SNM_West,4,9,Perognathus,penicillatus,LF1,2.96,2.47,2.43,,dried flowerhead,0
+30,6,1975,SNM_West,4,5,Perognathus,penicillatus,,1.68,1.07,0.68,Lotus,little tetra,0
+30,6,1975,SNM_West,4,5,Perognathus,penicillatus,,2.78,1.15,0.96,Larrea,creosote,0
+1,7,1975,SNM_East,6,9,Perognathus,penicillatus,LF12,3.58,1.65,0.80,Larrea,creosote,0
+4,7,1975,SNM_East,3,8,Perognathus,penicillatus,RF2,4.20,3.83,2.51,Cylindropuntia,cholla,1
+6,7,1975,SNM_East,5,5,Perognathus,penicillatus,LF1,3.88,1.42,1.09,Larrea,creosote,0
+6,7,1975,SNM_East,5,5,Perognathus,penicillatus,LF1,3.55,1.22,0.67,Larrea,creosote,0
+6,7,1975,SNM_East,5,5,Perognathus,penicillatus,LF1,4.38,1.38,1.03,Larrea,creosote,0
+6,7,1975,SNM_East,5,5,Perognathus,penicillatus,LF1,3.70,1.37,0.88,Larrea,creosote,0
+6,7,1975,SNM_East,5,5,Perognathus,penicillatus,LF1,3.80,1.48,0.89,Larrea,creosote,0
+6,7,1975,SNM_East,5,5,Perognathus,penicillatus,LF1,3.86,1.40,0.71,Larrea,creosote,0
+6,7,1975,SNM_East,5,5,Perognathus,penicillatus,LF1,4.11,1.31,0.87,Larrea,creosote,0
+6,7,1975,SNM_East,5,5,Perognathus,penicillatus,LF1,1.59,1.42,1.17,Lotus,tetrahedron,0
+6,7,1975,SNM_East,5,5,Perognathus,penicillatus,LF1,1.58,1.47,1.09,Lotus,tetrahedron,0
+6,7,1975,SNM_East,5,5,Perognathus,penicillatus,LF1,1.45,1.40,0.98,Lotus,tetrahedron,0
+6,7,1975,SNM_East,2,4,Perognathus,penicillatus,RF1,8.78,5.21,3.62,Parkinsonia,p.v.,1
+6,7,1975,SNM_East,2,4,Perognathus,penicillatus,RF1,7.78,3.27,2.69,Parkinsonia,p.v.,1
+6,7,1975,SNM_East,2,4,Perognathus,penicillatus,RF1,2.47,2.07,1.27,Plantago,,0
+9,7,1975,SNM_West,2,4,Perognathus,penicillatus,LF4,6.48,4.29,2.51,,mes or pv,1
+9,7,1975,SNM_West,2,4,Perognathus,penicillatus,LF4,6.61,4.51,2.69,,mes or pv,1
+9,7,1975,SNM_West,2,4,Perognathus,penicillatus,LF4,6.63,4.42,2.59,,mes or pv,1
+9,7,1975,SNM_West,2,4,Perognathus,penicillatus,LF4,7.32,5.21,2.44,,mes or pv,1
+9,7,1975,SNM_West,2,4,Perognathus,penicillatus,LF4,6.35,4.46,2.51,,mes or pv,1
+9,7,1975,SNM_West,2,4,Perognathus,penicillatus,LF4,6.67,4.20,2.51,,mes or pv,1
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.89,1.53,1.09,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.72,1.35,0.96,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.85,1.43,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.87,1.37,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.87,1.34,1.00,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.10,1.41,1.10,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.99,1.34,1.13,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.93,1.35,1.04,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.98,1.42,1.10,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.03,1.31,0.92,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.91,1.35,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.88,1.36,1.04,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.89,1.37,1.06,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.77,1.33,1.02,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.08,1.41,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.65,1.33,0.94,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.92,1.23,0.97,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.79,1.46,1.09,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.75,1.40,1.09,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.81,1.27,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.99,1.31,1.12,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.01,1.53,1.05,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.75,1.31,1.03,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.92,1.43,1.07,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.79,1.26,1.00,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.02,1.44,1.06,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.75,1.37,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.42,1.25,0.92,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.71,1.22,0.97,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.95,1.43,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.98,1.42,1.06,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.78,1.29,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.64,1.22,0.94,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.75,1.38,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.82,1.26,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.10,1.58,1.09,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.97,1.39,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.00,1.55,1.09,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.80,1.41,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.94,1.29,1.00,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.93,1.32,1.03,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.65,1.34,1.02,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.95,1.36,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.65,1.25,1.00,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.89,1.44,1.13,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.94,1.37,1.02,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.87,1.38,1.04,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.71,1.27,1.00,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.04,1.44,1.10,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.76,1.35,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.03,1.36,1.04,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.78,1.32,0.93,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.91,1.25,1.03,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.95,1.46,1.11,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.75,1.49,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.75,1.30,0.90,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.99,1.31,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.75,1.26,0.93,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.08,1.46,0.94,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.81,1.32,0.90,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.79,1.24,0.94,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.91,1.37,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.73,1.34,0.94,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.79,1.34,0.92,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.87,1.29,0.95,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.65,1.17,0.89,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.77,1.38,0.78,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.69,1.39,0.88,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.76,1.35,0.89,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.05,1.68,1.07,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.76,1.46,0.94,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.83,1.31,0.89,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.75,1.41,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.83,1.31,0.85,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.75,1.35,0.94,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.80,1.29,0.92,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.93,1.44,1.09,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.94,1.26,0.94,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.72,1.41,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.91,1.38,0.94,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.74,1.30,1.02,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.86,1.30,0.97,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.76,1.39,1.07,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.85,1.30,0.97,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.82,1.23,0.88,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.78,1.27,1.00,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.87,1.39,1.04,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.89,1.32,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.67,1.18,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.77,1.31,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.87,1.29,1.06,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.77,1.21,0.97,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.63,1.36,1.00,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.80,1.36,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.73,1.36,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.93,1.34,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.72,1.27,0.95,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.81,1.32,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.77,1.33,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.85,1.24,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.50,1.32,1.06,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.92,1.49,1.19,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.04,1.36,1.08,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.79,1.35,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.69,1.26,0.95,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.85,1.37,1.08,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.78,1.33,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.06,1.46,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.78,1.39,0.89,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.92,1.47,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.93,1.48,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.89,1.44,0.96,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.80,1.40,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.90,1.37,1.00,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.83,1.29,0.92,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.88,1.25,0.89,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.98,1.37,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.89,1.42,0.93,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.98,1.55,1.03,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.78,1.33,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.99,1.25,0.93,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.62,1.31,0.97,Carnegiea,saguaro,1
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.96,1.38,0.96,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.99,1.33,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.89,1.49,0.93,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.04,1.48,1.09,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.71,1.36,1.02,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.85,1.49,0.94,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.80,1.32,0.93,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.68,1.25,0.90,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.89,1.43,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.81,1.21,0.82,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.83,1.31,0.93,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.91,1.33,0.96,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.68,1.11,0.78,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.03,1.30,0.93,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.81,1.31,0.93,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.01,1.46,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.83,1.36,0.80,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.15,1.43,1.03,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.89,1.38,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.06,1.43,1.00,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.78,1.30,0.97,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.97,1.34,0.95,Carnegiea,saguaro,1
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.69,1.18,0.93,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.76,1.27,0.91,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.73,1.35,0.94,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.95,1.37,0.94,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.82,1.44,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.81,1.32,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.86,1.31,0.88,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.88,1.21,0.97,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.99,1.44,1.00,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.94,1.52,1.10,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.78,1.42,1.02,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.92,1.38,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.11,1.35,1.03,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.81,1.23,0.93,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.89,1.33,1.00,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.13,1.41,1.05,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.70,1.27,0.95,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.89,1.35,0.96,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.73,1.33,0.92,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.03,1.48,0.95,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.84,1.44,0.89,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.85,1.37,1.04,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.06,1.46,1.05,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.58,1.31,0.86,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.97,1.45,0.96,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.17,1.55,0.96,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.55,1.32,0.95,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.89,1.25,0.93,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.88,1.49,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.89,1.35,0.92,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.70,1.46,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.89,1.27,0.95,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.84,1.29,0.82,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.93,1.46,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.82,1.27,0.87,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.84,1.29,0.97,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.01,1.44,0.92,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.83,1.46,1.10,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.70,1.33,0.89,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.93,1.40,0.93,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.99,1.55,1.00,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.93,1.38,0.91,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.72,1.38,0.82,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.10,1.51,1.08,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.00,1.51,0.92,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.68,1.28,0.91,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.75,1.24,0.88,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.77,1.36,0.84,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.95,1.35,1.03,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.93,1.59,0.87,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.89,1.38,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.83,1.38,0.97,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.93,1.46,1.08,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.91,1.48,1.10,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.90,1.36,0.93,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.69,1.26,0.86,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.96,1.28,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.82,1.41,0.97,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.82,1.26,0.89,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.76,1.15,0.86,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.91,1.34,0.92,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.81,1.39,0.79,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.78,1.42,0.92,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.12,1.59,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.92,1.46,1.03,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.00,1.45,0.96,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.74,1.36,0.89,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.82,1.37,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.00,1.40,1.04,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.85,1.23,0.94,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.89,1.31,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.93,1.35,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.99,1.38,1.09,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.88,1.36,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.90,1.42,1.05,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.83,1.28,0.90,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.07,1.34,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.97,1.51,0.97,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.89,1.43,1.00,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.64,1.40,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.83,1.27,0.89,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.88,1.27,0.92,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.88,1.32,0.78,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.84,1.33,0.96,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.90,1.43,0.91,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.82,1.38,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.88,1.40,0.85,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.92,1.45,1.02,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.08,1.38,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.69,1.34,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.83,1.23,0.92,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.88,1.35,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.89,1.48,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.98,1.34,1.03,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.80,1.13,0.83,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.83,1.36,0.96,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.89,1.34,0.91,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.94,1.45,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.92,1.39,1.07,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.83,1.28,0.84,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.52,1.29,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.75,1.46,1.11,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.88,1.50,1.09,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.95,1.34,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.81,1.35,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.00,1.40,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.98,1.34,0.83,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.56,1.42,0.94,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.63,1.24,0.94,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.73,1.38,0.96,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.70,1.33,1.00,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.85,1.40,1.05,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.78,1.28,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.89,1.38,0.97,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.68,1.36,1.03,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.84,1.20,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.71,1.32,0.96,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.99,1.34,1.04,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.89,1.38,1.09,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.81,1.36,0.93,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.88,1.35,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.07,1.39,1.04,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.63,1.26,0.91,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.95,1.40,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.95,1.39,1.03,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.87,1.40,1.06,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.86,1.29,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.09,1.39,0.97,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.99,1.63,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.93,1.39,0.96,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.64,1.29,0.85,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.84,1.36,1.02,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.71,1.34,1.02,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.88,1.34,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.88,1.39,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.87,1.24,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.85,1.34,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.75,1.22,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.88,1.29,1.08,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.92,1.46,0.97,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.89,1.39,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.90,1.49,1.05,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.97,1.31,0.94,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.88,1.41,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.66,1.21,0.95,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.86,1.45,1.10,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.94,1.37,1.03,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.87,1.33,1.00,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.87,1.43,1.07,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.82,1.33,1.04,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.91,1.38,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.01,1.28,0.94,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.68,1.16,0.97,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.99,1.43,1.16,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.87,1.30,1.02,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.84,1.32,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.02,1.46,1.04,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.75,1.25,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.88,1.24,1.02,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.04,1.45,1.04,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.91,1.39,1.05,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.69,1.25,1.05,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.95,1.32,0.99,Carnegiea,saguaro,1
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.89,1.27,1.02,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.85,1.31,1.03,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.76,1.36,1.00,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.88,1.38,1.07,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.04,1.37,0.97,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.79,1.33,1.03,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.93,1.45,1.07,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.99,1.56,1.06,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.85,1.42,0.97,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.87,1.42,1.03,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.83,1.30,1.04,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.69,1.50,1.00,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.80,1.32,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.86,1.42,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.85,1.37,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.70,1.29,1.04,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.73,1.18,0.94,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.75,1.40,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.68,1.39,0.95,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.80,1.32,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.84,1.44,1.02,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.79,1.37,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.89,1.42,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.91,1.56,1.15,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.84,1.25,1.00,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.03,1.45,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.70,1.27,0.97,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.88,1.36,1.02,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.95,1.36,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.86,1.41,1.03,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.81,1.43,1.04,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.02,1.41,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.92,1.34,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.88,1.36,1.00,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.92,1.27,1.00,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.73,1.34,1.00,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.76,1.30,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.72,1.27,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.74,1.28,0.97,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.86,1.38,1.04,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.85,1.27,0.97,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.00,1.35,1.02,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.04,1.49,1.09,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.85,1.38,1.09,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.82,1.42,1.05,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.78,1.38,1.05,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.67,1.22,1.00,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.65,1.24,0.94,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.87,1.32,0.98,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.87,1.29,1.02,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.96,1.33,0.97,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.71,1.26,0.97,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.77,1.28,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.85,1.36,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.8,1.32,1.03,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.8,1.15,0.95,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.77,1.4,1.08,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.68,1.33,1.05,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.84,1.34,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.97,1.32,1.04,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.65,1.18,1.0,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.96,1.38,1.07,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.79,1.32,1.01,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.05,1.4,1.13,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.84,1.48,1.12,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.81,1.17,0.95,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.92,1.38,0.99,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.86,1.36,1.05,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.79,1.24,0.94,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.73,1.23,0.92,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.14,1.33,1.04,Carnegiea,saguaro,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,2.54,1.3,0.73,Plantago,canoe or fluted type,0
+11,7,1975,SNM_West,2,8,Perognathus,penicillatus,LF2,1.89,1.48,1.03,Plantago,small phoney type,0
+15,7,1975,SNM_West,1,5,Perognathus,penicillatus,LF2,8.44,6.24,5.63,,?,1
+22,7,1975,SNM_East,7,3,Perognathus,penicillatus,LF2,6.27,4.16,2.46,Prosopis,mesquite,0
+22,7,1975,SNM_East,7,3,Perognathus,penicillatus,LF2,5.97,4.36,2.23,Prosopis,mesquite,0
+22,7,1975,SNM_East,7,3,Perognathus,penicillatus,LF2,6.05,4.48,2.49,Prosopis,mesquite,0
+22,7,1975,SNM_East,7,3,Perognathus,penicillatus,LF2,5.68,4.57,2.38,Prosopis,mesquite,0
+24,7,1975,SNM_East,5,7,Perognathus,penicillatus,RR5,2.66,1.99,1.09,,,1
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.1,1.43,1.11,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.05,1.33,1.0,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.09,1.46,1.11,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.03,1.38,0.98,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,1.89,1.27,1.12,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.04,1.47,1.05,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,1.95,1.44,1.1,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,1.85,1.35,1.02,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.0,1.34,1.02,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.11,1.39,1.13,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.06,1.38,0.97,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,1.92,1.23,1.0,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.01,1.36,1.06,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.08,1.24,1.04,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.03,1.35,1.03,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.06,1.38,1.05,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.06,1.41,1.07,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.16,1.44,1.1,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.01,1.42,1.04,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.12,1.39,1.06,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,1.97,1.3,1.03,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.06,1.35,1.07,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.09,1.32,1.08,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,1.98,1.35,1.1,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.07,1.4,1.08,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.05,1.27,1.1,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.02,1.37,1.06,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.05,1.33,1.05,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.05,1.36,1.02,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,1.99,1.39,1.06,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.14,1.42,1.06,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,1.75,1.14,0.9,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.07,1.28,1.06,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.15,1.37,1.04,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.14,1.3,1.04,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.08,1.37,1.05,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.06,1.33,1.07,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.12,1.41,1.15,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.2,1.39,1.09,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.18,1.32,1.02,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.15,1.28,1.01,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.05,1.3,1.04,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.03,1.38,1.1,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.08,1.34,1.05,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,1.94,1.27,1.01,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.14,1.27,1.01,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.1,1.35,1.04,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.13,1.37,1.04,Carnegiea,saguaro,0
+29,7,1975,SNM_East,4,7,Perognathus,penicillatus,RF1,2.08,1.32,1.08,Carnegiea,saguaro,0
+29,7,1975,SNM_East,7,7,Perognathus,penicillatus,RF2,3.25,1.22,0.74,Larrea,creosote,0
+29,7,1975,SNM_East,7,7,Perognathus,penicillatus,RF2,3.34,1.2,0.79,Larrea,creosote,0
+30,7,1975,SNM_East,7,3,Perognathus,penicillatus,LF2,3.43,3.29,2.10,Opuntia,prickly pear,1
+31,7,1975,SNM_East,6,5,Perognathus,penicillatus,RF2,3.42,1.1,1.04,Larrea,creosote,0
+31,7,1975,SNM_East,6,5,Perognathus,penicillatus,RF2,2.72,1.1,0.67,Larrea,creosote,0
+31,7,1975,SNM_East,6,5,Perognathus,penicillatus,RF2,4.65,3.72,2.26,Opuntia,prickly pear,0
+31,7,1975,SNM_East,6,5,Perognathus,penicillatus,RF2,4.62,3.72,2.28,Opuntia,prickly pear,0
+31,7,1975,SNM_East,6,5,Perognathus,penicillatus,RF2,3.72,3.38,1.85,Opuntia,prickly pear,0
+31,7,1975,SNM_East,6,5,Perognathus,penicillatus,RF2,5.21,3.96,2.66,Opuntia,prickly pear,0
+31,7,1975,SNM_East,6,5,Perognathus,penicillatus,RF2,3.79,3.55,2.21,Opuntia,prickly pear,0
+31,7,1975,SNM_East,6,5,Perognathus,penicillatus,RF2,4.44,4.05,2.1,Opuntia,prickly pear,0
+31,7,1975,SNM_East,6,5,Perognathus,penicillatus,RF2,4.51,3.9,2.15,Opuntia,prickly pear,0
+31,7,1975,SNM_East,6,5,Perognathus,penicillatus,RF2,4.79,4.43,2.35,Opuntia,prickly pear,0
+31,7,1975,SNM_East,6,5,Perognathus,penicillatus,RF2,4.51,4.28,2.14,Opuntia,prickly pear,0
+31,7,1975,SNM_East,6,5,Perognathus,penicillatus,RF2,5.04,4.55,2.48,Opuntia,prickly pear,0
+31,7,1975,SNM_East,6,5,Perognathus,penicillatus,RF2,5.1,4.12,2.17,Opuntia,prickly pear,0
+31,7,1975,SNM_East,6,5,Perognathus,penicillatus,RF2,4.11,3.72,1.98,Opuntia,prickly pear,0
+31,7,1975,SNM_East,6,5,Perognathus,penicillatus,RF2,4.76,4.25,2.37,Opuntia,prickly pear,0
+31,7,1975,SNM_East,6,5,Perognathus,penicillatus,RF2,4.29,4.02,2.18,Opuntia,prickly pear,0
+31,7,1975,SNM_East,6,5,Perognathus,penicillatus,RF2,4.95,4.13,1.74,Opuntia,prickly pear,0
+31,7,1975,SNM_East,6,5,Perognathus,penicillatus,RF2,3.78,3.52,2.21,Opuntia,prickly pear,0
+31,7,1975,SNM_East,6,5,Perognathus,penicillatus,RF2,4.82,3.66,2.29,Opuntia,prickly pear,0
+31,7,1975,SNM_East,6,5,Perognathus,penicillatus,RF2,4.67,4.09,1.99,Opuntia,prickly pear,0
+31,7,1975,SNM_East,6,5,Perognathus,penicillatus,RF2,4.51,4.3,2.16,Opuntia,prickly pear,0
+31,7,1975,SNM_East,6,5,Perognathus,penicillatus,RF2,4.98,4.3,2.28,Opuntia,prickly pear,0
+31,7,1975,SNM_East,6,5,Perognathus,penicillatus,RF2,4.83,4.21,2.24,Opuntia,prickly pear,0
+31,7,1975,SNM_East,6,5,Perognathus,penicillatus,RF2,4.33,4.1,2.04,Opuntia,prickly pear,0
+31,7,1975,SNM_East,6,5,Perognathus,penicillatus,RF2,4.93,3.91,2.11,Opuntia,prickly pear,0
+31,7,1975,SNM_East,6,5,Perognathus,penicillatus,RF2,4.79,3.87,2.26,Opuntia,prickly pear,0
+31,7,1975,SNM_East,6,5,Perognathus,penicillatus,RF2,4.36,3.8,1.99,Opuntia,prickly pear,0
+31,7,1975,SNM_East,6,5,Perognathus,penicillatus,RF2,4.77,4.36,2.06,Opuntia,prickly pear,0
+31,7,1975,SNM_East,5,3,Perognathus,penicillatus,RF2,4.12,1.16,1.03,Larrea,creosote,0
+31,7,1975,SNM_East,4,3,Perognathus,penicillatus,LF3,1.99,1.28,0.99,Carnegiea,saguaro,0
+31,7,1975,SNM_East,4,3,Perognathus,penicillatus,LF3,1.70,1.44,1.07,Carnegiea,saguaro,0
